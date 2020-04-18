@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="1024"
+   height="1024"
+   viewBox="0 0 1024 1024"
+   id="svg2"
+   version="1.1">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path835-6"
+     d="m 422.00001,703.99999 v 36.00003 l 36,36 44.99999,-10e-6 v 72 h -80.99999 l -72,-72.00002 v -72 z"
+     style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     id="path835"
+     d="M 601.99999,488.00002 V 452 l -36,-36 -44.99999,10e-6 v -72 h 80.99999 l 72,72.00001 v 72 z"
+     style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     id="path837"
+     d="m 503,344.00001 v 72 L 458.00001,416 l -36,36 v 53.99999 l 36,36.00002 H 503 V 614 h -80.99999 l -72,-71.99999 v -126 l 72,-72 z"
+     style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     id="path854"
+     d="m 521,614 v -71.99999 h 80.99999 l 72,72 v 161.99998 l -72,72.00001 H 521 v -71.99999 l 44.99999,-3e-5 36,-35.99999 v -89.99998 l -36,-36 z"
+     style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     id="path879"
+     d="m 530,272.00001 -54,54 h 72 l 53.99999,-54 z"
+     style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+</svg>
