@@ -1,2 +1,2 @@
 # fightersfs-data
-Data for fightersfs.
+Data for [fightersfs](https://github.com/marek-cel/fightersfs).
