@@ -1,0 +1,158 @@
+#Ascii Scene 
+#Version 99 
+#Generator OpenSceneGraph 3.2.0 
+
+osg::Group {
+  UniqueID 1 
+  Name "p11_propeller.obj" 
+  Children 1 {
+    osg::Geode {
+      UniqueID 2 
+      Name "Propeller_Circle" 
+      Drawables 1 {
+        osg::Geometry {
+          UniqueID 3 
+          DataVariance STATIC 
+          StateSet TRUE {
+            osg::StateSet {
+              UniqueID 4 
+              DataVariance STATIC 
+              ModeList 1 {
+                GL_BLEND ON 
+              }
+              AttributeList 1 {
+                osg::Material {
+                  UniqueID 5 
+                  Name "Material_Propeller" 
+                  Ambient TRUE Front 0.5 0.5 0.5 0.5 Back 0.5 0.5 0.5 0.5 
+                  Diffuse TRUE Front 1 1 1 0.5 Back 1 1 1 0.5 
+                  Specular TRUE Front 0 0 0 1 Back 0 0 0 1 
+                  Emission TRUE Front 0 0 0 0.1 Back 0 0 0 0.1 
+                  Shininess TRUE Front 50.0 Back 50.0 
+                }
+                Value OFF 
+              }
+              TextureModeList 1 {
+                Data 1 {
+                  GL_TEXTURE_2D ON 
+                }
+              }
+              TextureAttributeList 1 {
+                Data 1 {
+                  osg::Texture2D {
+                    UniqueID 6 
+                    WRAP_S MIRROR 
+                    WRAP_T MIRROR 
+                    WRAP_R MIRROR 
+                    MIN_FILTER LINEAR_MIPMAP_LINEAR 
+                    MAG_FILTER LINEAR 
+                    MaxAnisotropy 8 
+                    Swizzle RGBA 
+                    Image TRUE {
+                      ClassName osg::Image 
+                      UniqueID 7 
+                      FileName "data/aircrafts/p11/p11.rgb" 
+                      WriteHint 0 2 
+                      DataVariance STATIC 
+                    }
+                  }
+                  Value OFF 
+                }
+              }
+              RenderingHint 2 
+              RenderBinMode USE_RENDERBIN_DETAILS 
+              BinNumber 10 
+              BinName "DepthSortedBin" 
+            }
+          }
+          PrimitiveSetList 3 {
+            DrawElementsUShort GL_TRIANGLE_STRIP 0 5 {
+              0 1 2 13 
+              14 
+            }
+            DrawElementsUShort GL_TRIANGLE_STRIP 0 12 {
+              14 15 2 12 
+              11 10 9 7 
+              6 4 3 5 
+            }
+            DrawElementsUShort GL_TRIANGLES 0 3 {
+              4 7 8 
+            }
+            
+          }
+          VertexData {
+            Array TRUE ArrayID 1 Vec3fArray 16 {
+              -0 1.33963 0.554891 
+              -0 1.02531 1.02531 
+              -0 1.45 -0 
+              -0 0 -1.45 
+              -0 -1.02531 -1.02531 
+              -0 -0.554891 -1.33963 
+              -0 0.554891 -1.33963 
+              -0 -1.45 0 
+              -0 -1.33963 -0.554891 
+              -0 1.02531 -1.02531 
+              -0 -1.33963 0.554891 
+              -0 1.33963 -0.55489 
+              -0 -1.02531 1.02531 
+              -0 0.554891 1.33963 
+              -0 -0 1.45 
+              -0 -0.554891 1.33963 
+            }
+            Indices FALSE 
+            Binding BIND_PER_VERTEX 
+            Normalize 0 
+          }
+          NormalData {
+            Array TRUE ArrayID 2 Vec3fArray 16 {
+              1 -0 -0 
+              1 -0 -0 
+              1 -0 -0 
+              1 -0 -0 
+              1 -0 -0 
+              1 -0 -0 
+              1 -0 -0 
+              1 -0 -0 
+              1 -0 -0 
+              1 -0 -0 
+              1 -0 -0 
+              1 -0 -0 
+              1 -0 -0 
+              1 -0 -0 
+              1 -0 -0 
+              1 -0 -0 
+            }
+            Indices FALSE 
+            Binding BIND_PER_VERTEX 
+            Normalize 0 
+          }
+          TexCoordData 1 {
+            Data {
+              Array TRUE ArrayID 3 Vec2fArray 16 {
+                0.250429 0.913066 
+                0.223314 0.953647 
+                0.259951 0.865198 
+                0.134865 0.740112 
+                0.046416 0.776749 
+                0.086997 0.749633 
+                0.182733 0.749634 
+                0.009779 0.865198 
+                0.019301 0.81733 
+                0.223314 0.776749 
+                0.019301 0.913066 
+                0.250429 0.81733 
+                0.046416 0.953647 
+                0.182733 0.980762 
+                0.134865 0.990284 
+                0.086997 0.980762 
+              }
+              Indices FALSE 
+              Binding BIND_PER_VERTEX 
+              Normalize 0 
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,298 @@
+#Ascii Scene 
+#Version 99 
+#Generator OpenSceneGraph 3.2.0 
+
+osg::Group {
+  UniqueID 1 
+  Name "rwd8_aileron_l.obj" 
+  Children 2 {
+    osg::Geode {
+      UniqueID 2 
+      Name "Ailerons_Cylinder.002" 
+      Drawables 1 {
+        osg::Geometry {
+          UniqueID 3 
+          DataVariance STATIC 
+          StateSet TRUE {
+            osg::StateSet {
+              UniqueID 4 
+              DataVariance STATIC 
+              ModeList 1 {
+                GL_BLEND ON 
+              }
+              AttributeList 1 {
+                osg::Material {
+                  UniqueID 5 
+                  Name "Material_Texture" 
+                  Ambient TRUE Front 0.5 0.5 0.5 1 Back 0.5 0.5 0.5 1 
+                  Diffuse TRUE Front 1 1 1 1 Back 1 1 1 1 
+                  Specular TRUE Front 0 0 0 1 Back 0 0 0 1 
+                  Emission TRUE Front 0 0 0 1 Back 0 0 0 1 
+                  Shininess TRUE Front 50.0 Back 50.0 
+                }
+                Value OFF 
+              }
+              TextureModeList 1 {
+                Data 1 {
+                  GL_TEXTURE_2D ON 
+                }
+              }
+              TextureAttributeList 1 {
+                Data 1 {
+                  osg::Texture2D {
+                    UniqueID 6 
+                    WRAP_S MIRROR 
+                    WRAP_T MIRROR 
+                    WRAP_R MIRROR 
+                    MIN_FILTER LINEAR_MIPMAP_LINEAR 
+                    MAG_FILTER LINEAR 
+                    MaxAnisotropy 8 
+                    Swizzle RGBA 
+                    Image TRUE {
+                      ClassName osg::Image 
+                      UniqueID 7 
+                      FileName "data/aircrafts/rwd8/rwd8.rgb" 
+                      WriteHint 0 2 
+                      DataVariance STATIC 
+                    }
+                  }
+                  Value OFF 
+                }
+              }
+              RenderingHint 2 
+              RenderBinMode USE_RENDERBIN_DETAILS 
+              BinNumber 10 
+              BinName "DepthSortedBin" 
+            }
+          }
+          PrimitiveSetList 4 {
+            DrawElementsUShort GL_TRIANGLE_STRIP 0 4 {
+              3 4 5 18 
+            }
+            DrawArrays GL_TRIANGLE_STRIP 0 19 4 
+            DrawElementsUShort GL_TRIANGLE_STRIP 0 4 {
+              12 13 14 23 
+            }
+            DrawElementsUShort GL_TRIANGLES 0 12 {
+              0 1 2 6 
+              7 8 9 10 
+              11 15 16 17 
+            }
+            
+          }
+          VertexData {
+            Array TRUE ArrayID 1 Vec3fArray 24 {
+              0 -0 -0.054368 
+              0 -0 0.054368 
+              0.460289 -0.097446 0 
+              0 -0 0.054368 
+              0 -0 -0.054368 
+              2e-06 -1.65591 0.053936 
+              2e-06 -1.65591 0.053936 
+              2e-06 -1.65591 -0.053936 
+              2e-06 -1.93189 0.048849 
+              2e-06 -2.10566 0.039405 
+              2e-06 -1.93189 0.048849 
+              2e-06 -2.10566 -0.039405 
+              2e-06 -2.10566 0.039405 
+              2e-06 -2.10566 -0.039405 
+              2e-06 -2.26921 0.024885 
+              2e-06 -2.26921 -0.024885 
+              0.186216 -2.30863 0 
+              2e-06 -2.26921 0.024885 
+              2e-06 -1.65591 -0.053936 
+              2e-06 -1.65591 -0.053936 
+              2e-06 -1.93189 -0.048849 
+              2e-06 -1.93189 0.048849 
+              2e-06 -2.10566 -0.039405 
+              2e-06 -2.26921 -0.024885 
+            }
+            Indices FALSE 
+            Binding BIND_PER_VERTEX 
+            Normalize 0 
+          }
+          NormalData {
+            Array TRUE ArrayID 2 Vec3fArray 24 {
+              0.207116 0.978316 0 
+              0.207116 0.978316 0 
+              0.207116 0.978316 0 
+              -1 -1e-06 0 
+              -1 -1e-06 0 
+              -1 -1e-06 0 
+              -1 -0 0 
+              -1 -0 0 
+              -1 -0 0 
+              -1 -2e-06 0 
+              -1 -2e-06 0 
+              -1 -2e-06 0 
+              -1 -1e-06 0 
+              -1 -1e-06 0 
+              -1 -1e-06 0 
+              -0.207114 -0.978317 0 
+              -0.207114 -0.978317 0 
+              -0.207114 -0.978317 0 
+              -1 -1e-06 0 
+              -1 -1e-06 -1e-06 
+              -1 -1e-06 -1e-06 
+              -1 -1e-06 -1e-06 
+              -1 -1e-06 -1e-06 
+              -1 -1e-06 0 
+            }
+            Indices FALSE 
+            Binding BIND_PER_VERTEX 
+            Normalize 0 
+          }
+          TexCoordData 1 {
+            Data {
+              Array TRUE ArrayID 3 Vec2fArray 24 {
+                0.249947 0.274126 
+                0.249947 0.274126 
+                0.249947 0.235679 
+                0.249947 0.274126 
+                0.249947 0.274126 
+                0.117566 0.2461 
+                0.117566 0.2461 
+                0.117566 0.2461 
+                0.095502 0.241429 
+                0.081611 0.238488 
+                0.095502 0.241429 
+                0.081611 0.238488 
+                0.081611 0.238488 
+                0.081611 0.238488 
+                0.068536 0.23572 
+                0.068536 0.23572 
+                0.068536 0.220166 
+                0.068536 0.23572 
+                0.117566 0.2461 
+                0.117566 0.2461 
+                0.095502 0.241429 
+                0.095502 0.241429 
+                0.081611 0.238488 
+                0.068536 0.23572 
+              }
+              Indices FALSE 
+              Binding BIND_PER_VERTEX 
+              Normalize 0 
+            }
+          }
+        }
+      }
+    }
+    osg::Geode {
+      UniqueID 8 
+      Name "Ailerons_Cylinder.002" 
+      Drawables 1 {
+        osg::Geometry {
+          UniqueID 9 
+          DataVariance STATIC 
+          StateSet TRUE {
+            osg::StateSet {
+              UniqueID 4 
+            }
+          }
+          PrimitiveSetList 5 {
+            DrawArrays GL_TRIANGLE_STRIP 0 0 4 
+            DrawElementsUShort GL_TRIANGLE_STRIP 0 4 {
+              1 4 3 5 
+            }
+            DrawElementsUShort GL_TRIANGLE_STRIP 0 4 {
+              4 6 5 7 
+            }
+            DrawElementsUShort GL_TRIANGLE_STRIP 0 4 {
+              6 8 7 9 
+            }
+            DrawElementsUShort GL_TRIANGLE_STRIP 0 10 {
+              13 10 12 11 
+              15 14 17 16 
+              19 18 
+            }
+            
+          }
+          VertexData {
+            Array TRUE ArrayID 4 Vec3fArray 20 {
+              0 -0 0.054368 
+              2e-06 -1.65591 0.053936 
+              0.460289 -0.097446 0 
+              0.455858 -1.75241 0 
+              2e-06 -1.93189 0.048849 
+              0.406204 -2.01789 0 
+              2e-06 -2.10566 0.039405 
+              0.314862 -2.17232 0 
+              2e-06 -2.26921 0.024885 
+              0.186216 -2.30863 0 
+              0.460289 -0.097446 0 
+              0.455858 -1.75241 0 
+              2e-06 -1.65591 -0.053936 
+              0 -0 -0.054368 
+              0.406204 -2.01789 0 
+              2e-06 -1.93189 -0.048849 
+              0.314862 -2.17232 0 
+              2e-06 -2.10566 -0.039405 
+              0.186216 -2.30863 0 
+              2e-06 -2.26921 -0.024885 
+            }
+            Indices FALSE 
+            Binding BIND_PER_VERTEX 
+            Normalize 0 
+          }
+          NormalData {
+            Array TRUE ArrayID 5 Vec3fArray 20 {
+              0.117247 -0.000259 0.993103 
+              0.115782 -0.008112 0.993242 
+              0.117277 -0.000268 0.993099 
+              0.115825 -0.011094 0.993208 
+              0.111434 -0.034324 0.993179 
+              0.112512 -0.039334 0.992872 
+              0.107159 -0.070135 0.991765 
+              0.109421 -0.076082 0.991079 
+              0.106697 -0.092473 0.989982 
+              0.110096 -0.103905 0.988475 
+              0.117277 -0.000268 -0.993099 
+              0.115825 -0.011094 -0.993208 
+              0.115782 -0.008112 -0.993241 
+              0.117247 -0.000259 -0.993103 
+              0.112511 -0.039334 -0.992872 
+              0.111434 -0.034324 -0.993179 
+              0.109421 -0.076082 -0.991079 
+              0.107159 -0.070135 -0.991765 
+              0.110096 -0.103905 -0.988475 
+              0.106698 -0.092472 -0.989982 
+            }
+            Indices FALSE 
+            Binding BIND_PER_VERTEX 
+            Normalize 0 
+          }
+          TexCoordData 1 {
+            Data {
+              Array TRUE ArrayID 6 Vec2fArray 20 {
+                0.249947 0.274126 
+                0.117566 0.2461 
+                0.249947 0.235679 
+                0.117566 0.208023 
+                0.095502 0.241429 
+                0.095502 0.207499 
+                0.081611 0.238488 
+                0.081611 0.212188 
+                0.068536 0.23572 
+                0.068536 0.220166 
+                0.750053 0.037918 
+                0.882434 0.010262 
+                0.882434 0.048339 
+                0.750053 0.076365 
+                0.904498 0.009739 
+                0.904498 0.043668 
+                0.91839 0.014427 
+                0.91839 0.040727 
+                0.931464 0.022405 
+                0.931464 0.037959 
+              }
+              Indices FALSE 
+              Binding BIND_PER_VERTEX 
+              Normalize 0 
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+Kagerō-class destroyer (1939)
+- Kagerō DD-17
+- Shiranui
+- Kuroshio
+- Oyashio
+- Hayashio
+- Natsushio
+- Hatsukaze
+- Yukikaze
+- Amatsukaze
+- Tokitsukaze
+- Urakaze
+- Isokaze
+- Hamakaze
+- Tanikaze
+- Nowaki
+- Arashi
+- Hagikaze
+- Maikaze
+- Akigumo

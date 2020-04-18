@@ -1,0 +1,174 @@
+#Ascii Scene 
+#Version 99 
+#Generator OpenSceneGraph 3.2.0 
+
+osg::Group {
+  UniqueID 1 
+  Name "barracks_l.obj" 
+  Children 2 {
+    osg::Geode {
+      UniqueID 2 
+      Name "Cube" 
+      Drawables 1 {
+        osg::Geometry {
+          UniqueID 3 
+          DataVariance STATIC 
+          StateSet TRUE {
+            osg::StateSet {
+              UniqueID 4 
+              DataVariance STATIC 
+              AttributeList 1 {
+                osg::Material {
+                  UniqueID 5 
+                  Name "Material_Roof" 
+                  Ambient TRUE Front 0.08 0.08 0.08 1 Back 0.08 0.08 0.08 1 
+                  Diffuse TRUE Front 0.16 0.16 0.16 1 Back 0.16 0.16 0.16 1 
+                  Specular TRUE Front 0 0 0 1 Back 0 0 0 1 
+                  Emission TRUE Front 0 0 0 1 Back 0 0 0 1 
+                  Shininess TRUE Front 12.288 Back 12.288 
+                }
+                Value OFF 
+              }
+            }
+          }
+          PrimitiveSetList 2 {
+            DrawElementsUShort GL_TRIANGLE_STRIP 0 4 {
+              0 1 2 6 
+            }
+            DrawElementsUShort GL_TRIANGLE_STRIP 0 4 {
+              7 5 4 3 
+            }
+            
+          }
+          VertexData {
+            Array TRUE ArrayID 1 Vec3fArray 8 {
+              7 4 5 
+              -7 4 5 
+              7 -0 6.2 
+              -7 -4 5 
+              7 -4 5 
+              -7 -0 6.2 
+              -7 -0 6.2 
+              7 -0 6.2 
+            }
+            Indices FALSE 
+            Binding BIND_PER_VERTEX 
+            Normalize 0 
+          }
+          NormalData {
+            Array TRUE ArrayID 2 Vec3fArray 8 {
+              0 0.287348 0.957826 
+              0 0.287348 0.957826 
+              0 0.287348 0.957826 
+              0 -0.287348 0.957826 
+              0 -0.287348 0.957826 
+              0 -0.287348 0.957826 
+              0 0.287348 0.957826 
+              0 -0.287348 0.957826 
+            }
+            Indices FALSE 
+            Binding BIND_PER_VERTEX 
+            Normalize 0 
+          }
+        }
+      }
+    }
+    osg::Geode {
+      UniqueID 6 
+      Name "Cube" 
+      Drawables 1 {
+        osg::Geometry {
+          UniqueID 7 
+          DataVariance STATIC 
+          StateSet TRUE {
+            osg::StateSet {
+              UniqueID 8 
+              DataVariance STATIC 
+              AttributeList 1 {
+                osg::Material {
+                  UniqueID 9 
+                  Name "Material_Walls" 
+                  Ambient TRUE Front 0.24 0.24 0.24 1 Back 0.24 0.24 0.24 1 
+                  Diffuse TRUE Front 0.48 0.48 0.48 1 Back 0.48 0.48 0.48 1 
+                  Specular TRUE Front 0 0 0 1 Back 0 0 0 1 
+                  Emission TRUE Front 0 0 0 1 Back 0 0 0 1 
+                  Shininess TRUE Front 12.288 Back 12.288 
+                }
+                Value OFF 
+              }
+            }
+          }
+          PrimitiveSetList 5 {
+            DrawElementsUShort GL_TRIANGLE_STRIP 0 4 {
+              2 0 1 10 
+            }
+            DrawElementsUShort GL_TRIANGLE_STRIP 0 4 {
+              5 3 4 6 
+            }
+            DrawElementsUShort GL_TRIANGLE_STRIP 0 4 {
+              7 8 9 15 
+            }
+            DrawElementsUShort GL_TRIANGLE_STRIP 0 4 {
+              17 13 12 11 
+            }
+            DrawElementsUShort GL_TRIANGLES 0 6 {
+              3 14 6 0 
+              16 10 
+            }
+            
+          }
+          VertexData {
+            Array TRUE ArrayID 3 Vec3fArray 18 {
+              7 -4 5 
+              7 4 5 
+              7 -0 6.2 
+              -7 4 5 
+              -7 -4 5 
+              -7 -0 6.2 
+              -7 -4 0 
+              -7 4 5 
+              7 4 5 
+              -7 4 0 
+              7 4 0 
+              7 -4 5 
+              -7 -4 5 
+              7 -4 0 
+              -7 4 0 
+              7 4 0 
+              7 -4 0 
+              -7 -4 0 
+            }
+            Indices FALSE 
+            Binding BIND_PER_VERTEX 
+            Normalize 0 
+          }
+          NormalData {
+            Array TRUE ArrayID 4 Vec3fArray 18 {
+              1 -0 0 
+              1 -0 0 
+              1 -0 0 
+              -1 -0 0 
+              -1 -0 0 
+              -1 -0 0 
+              -1 -0 0 
+              0 1 0 
+              0 1 0 
+              0 1 0 
+              1 -0 0 
+              0 -1 0 
+              0 -1 0 
+              0 -1 0 
+              -1 -0 0 
+              0 1 0 
+              1 -0 0 
+              0 -1 0 
+            }
+            Indices FALSE 
+            Binding BIND_PER_VERTEX 
+            Normalize 0 
+          }
+        }
+      }
+    }
+  }
+}

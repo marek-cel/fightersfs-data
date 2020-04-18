@@ -1,0 +1,165 @@
+#Ascii Scene 
+#Version 99 
+#Generator OpenSceneGraph 3.2.0 
+
+osg::Group {
+  UniqueID 1 
+  Name "sbd_propeller.obj" 
+  Children 1 {
+    osg::Geode {
+      UniqueID 2 
+      Name "Propeller_Circle" 
+      Drawables 1 {
+        osg::Geometry {
+          UniqueID 3 
+          DataVariance STATIC 
+          StateSet TRUE {
+            osg::StateSet {
+              UniqueID 4 
+              DataVariance STATIC 
+              ModeList 1 {
+                GL_BLEND ON 
+              }
+              AttributeList 1 {
+                osg::Material {
+                  UniqueID 5 
+                  Name "Material_Propeller" 
+                  Ambient TRUE Front 0.5 0.5 0.5 0.5 Back 0.5 0.5 0.5 0.5 
+                  Diffuse TRUE Front 1 1 1 0.5 Back 1 1 1 0.5 
+                  Specular TRUE Front 0 0 0 1 Back 0 0 0 1 
+                  Emission TRUE Front 0 0 0 0.1 Back 0 0 0 0.1 
+                  Shininess TRUE Front 50.0 Back 50.0 
+                }
+                Value OFF 
+              }
+              TextureModeList 1 {
+                Data 1 {
+                  GL_TEXTURE_2D ON 
+                }
+              }
+              TextureAttributeList 1 {
+                Data 1 {
+                  osg::Texture2D {
+                    UniqueID 6 
+                    WRAP_S REPEAT 
+                    WRAP_T REPEAT 
+                    WRAP_R REPEAT 
+                    MIN_FILTER LINEAR_MIPMAP_LINEAR 
+                    MAG_FILTER LINEAR 
+                    MaxAnisotropy 8 
+                    Swizzle RGBA 
+                    Image TRUE {
+                      ClassName osg::Image 
+                      UniqueID 7 
+                      FileName "data/aircrafts/sbd/sbd.rgb" 
+                      WriteHint 0 2 
+                      DataVariance STATIC 
+                    }
+                  }
+                  Value OFF 
+                }
+              }
+              RenderingHint 2 
+              RenderBinMode USE_RENDERBIN_DETAILS 
+              BinNumber 10 
+              BinName "DepthSortedBin" 
+            }
+          }
+          PrimitiveSetList 5 {
+            DrawElementsUShort GL_TRIANGLE_STRIP 0 5 {
+              0 1 2 4 
+              5 
+            }
+            DrawElementsUShort GL_TRIANGLE_STRIP 0 4 {
+              5 6 2 7 
+            }
+            DrawElementsUShort GL_TRIANGLE_STRIP 0 6 {
+              6 8 7 10 
+              15 13 
+            }
+            DrawElementsUShort GL_TRIANGLE_STRIP 0 4 {
+              8 11 10 12 
+            }
+            DrawElementsUShort GL_TRIANGLES 0 9 {
+              1 3 4 8 
+              6 9 13 10 
+              14 
+            }
+            
+          }
+          VertexData {
+            Array TRUE ArrayID 1 Vec3fArray 16 {
+              -0 1.55212 0.642908 
+              -0 1.18794 1.18794 
+              0 1.68 0 
+              -0 0.642908 1.55212 
+              -0 -0 1.68 
+              -0 -0.642908 1.55212 
+              -0 -1.18794 1.18794 
+              0 1.55212 -0.642907 
+              -0 -1.68 0 
+              -0 -1.55212 0.642908 
+              0 -0.642908 -1.55212 
+              0 -1.55212 -0.642908 
+              0 -1.18794 -1.18794 
+              0 0.642908 -1.55212 
+              0 0 -1.68 
+              0 1.18794 -1.18794 
+            }
+            Indices FALSE 
+            Binding BIND_PER_VERTEX 
+            Normalize 0 
+          }
+          NormalData {
+            Array TRUE ArrayID 2 Vec3fArray 16 {
+              1 -0 0 
+              1 -0 0 
+              1 -0 0 
+              1 -0 0 
+              1 -0 0 
+              1 -0 0 
+              1 -0 0 
+              1 -0 0 
+              1 -0 0 
+              1 -0 0 
+              1 -0 0 
+              1 -0 0 
+              1 -0 0 
+              1 -0 0 
+              1 -0 0 
+              1 -0 0 
+            }
+            Indices FALSE 
+            Binding BIND_PER_VERTEX 
+            Normalize 0 
+          }
+          TexCoordData 1 {
+            Data {
+              Array TRUE ArrayID 3 Vec2fArray 16 {
+                0.195964 0.931859 
+                0.174816 0.963509 
+                0.20339 0.894525 
+                0.143166 0.984657 
+                0.105832 0.992083 
+                0.068499 0.984657 
+                0.036849 0.963509 
+                0.195964 0.857192 
+                0.008275 0.894525 
+                0.015701 0.931859 
+                0.068499 0.804394 
+                0.015701 0.857192 
+                0.036849 0.825542 
+                0.143166 0.804394 
+                0.105832 0.796968 
+                0.174816 0.825542 
+              }
+              Indices FALSE 
+              Binding BIND_PER_VERTEX 
+              Normalize 0 
+            }
+          }
+        }
+      }
+    }
+  }
+}

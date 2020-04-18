@@ -1,0 +1,254 @@
+#Ascii Scene 
+#Version 99 
+#Generator OpenSceneGraph 3.2.0 
+
+osg::Group {
+  UniqueID 1 
+  Name "p40_rudder.obj" 
+  Children 1 {
+    osg::Geode {
+      UniqueID 2 
+      Name "Rudder_Cube.005" 
+      Drawables 1 {
+        osg::Geometry {
+          UniqueID 3 
+          DataVariance STATIC 
+          StateSet TRUE {
+            osg::StateSet {
+              UniqueID 4 
+              DataVariance STATIC 
+              ModeList 1 {
+                GL_BLEND ON 
+              }
+              AttributeList 1 {
+                osg::Material {
+                  UniqueID 5 
+                  Name "Material_Texture" 
+                  Ambient TRUE Front 0.5 0.5 0.5 1 Back 0.5 0.5 0.5 1 
+                  Diffuse TRUE Front 1 1 1 1 Back 1 1 1 1 
+                  Specular TRUE Front 1 1 1 1 Back 1 1 1 1 
+                  Emission TRUE Front 0 0 0 1 Back 0 0 0 1 
+                  Shininess TRUE Front 50.0 Back 50.0 
+                }
+                Value OFF 
+              }
+              TextureModeList 1 {
+                Data 1 {
+                  GL_TEXTURE_2D ON 
+                }
+              }
+              TextureAttributeList 1 {
+                Data 1 {
+                  osg::Texture2D {
+                    UniqueID 6 
+                    WRAP_S MIRROR 
+                    WRAP_T MIRROR 
+                    WRAP_R MIRROR 
+                    MIN_FILTER LINEAR_MIPMAP_LINEAR 
+                    MAG_FILTER LINEAR 
+                    MaxAnisotropy 8 
+                    Swizzle RGBA 
+                    Image TRUE {
+                      ClassName osg::Image 
+                      UniqueID 7 
+                      FileName "data/aircrafts/p40/p40.rgb" 
+                      WriteHint 0 2 
+                      DataVariance STATIC 
+                    }
+                  }
+                  Value OFF 
+                }
+              }
+              RenderingHint 2 
+              RenderBinMode USE_RENDERBIN_DETAILS 
+              BinNumber 10 
+              BinName "DepthSortedBin" 
+            }
+          }
+          PrimitiveSetList 8 {
+            DrawElementsUShort GL_TRIANGLE_STRIP 0 14 {
+              2 0 1 5 
+              4 3 7 6 
+              9 8 11 10 
+              13 12 
+            }
+            DrawElementsUShort GL_TRIANGLE_STRIP 0 4 {
+              27 25 26 24 
+            }
+            DrawElementsUShort GL_TRIANGLE_STRIP 0 4 {
+              25 23 24 22 
+            }
+            DrawElementsUShort GL_TRIANGLE_STRIP 0 4 {
+              23 21 22 20 
+            }
+            DrawElementsUShort GL_TRIANGLE_STRIP 0 4 {
+              21 19 20 18 
+            }
+            DrawElementsUShort GL_TRIANGLE_STRIP 0 4 {
+              19 17 18 16 
+            }
+            DrawElementsUShort GL_TRIANGLE_STRIP 0 4 {
+              17 14 16 15 
+            }
+            DrawElementsUShort GL_TRIANGLE_STRIP 0 14 {
+              30 28 29 31 
+              32 33 34 35 
+              36 37 38 39 
+              40 41 
+            }
+            
+          }
+          VertexData {
+            Array TRUE ArrayID 1 Vec3fArray 42 {
+              0.004942 -0.049434 0.17 
+              0.004942 0.049434 0.17 
+              0 -0 0 
+              0.007879 -0.062188 0.75 
+              0.006465 0.06025 0.35 
+              0.006465 -0.06025 0.35 
+              0.008585 -0.055507 1.17 
+              0.007879 0.062188 0.75 
+              0.008207 -0.036331 1.6 
+              0.008585 0.055506 1.17 
+              0.007478 -0.021558 1.79 
+              0.008207 0.03633 1.6 
+              0.005999 -0 1.88 
+              0.007478 0.021557 1.79 
+              0.004942 -0.049434 0.17 
+              0 -0 -0 
+              0.504017 -0 0.17 
+              0.006465 -0.06025 0.35 
+              0.645918 -0 0.35 
+              0.007879 -0.062188 0.75 
+              0.691253 -0 0.75 
+              0.008585 -0.055507 1.17 
+              0.632354 -1e-06 1.17 
+              0.008207 -0.036331 1.6 
+              0.421338 -1e-06 1.6 
+              0.007478 -0.021558 1.79 
+              0.251122 -1e-06 1.79 
+              0.005999 -0 1.88 
+              0.004942 0.049434 0.17 
+              0.504017 -0 0.17 
+              0 -0 -0 
+              0.006465 0.06025 0.35 
+              0.645918 -0 0.35 
+              0.007879 0.062188 0.75 
+              0.691253 -0 0.75 
+              0.008585 0.055506 1.17 
+              0.632354 -1e-06 1.17 
+              0.008207 0.03633 1.6 
+              0.421338 -1e-06 1.6 
+              0.007478 0.021557 1.79 
+              0.251122 -1e-06 1.79 
+              0.005999 -0 1.88 
+            }
+            Indices FALSE 
+            Binding BIND_PER_VERTEX 
+            Normalize 0 
+          }
+          NormalData {
+            Array TRUE ArrayID 2 Vec3fArray 42 {
+              -0.9998 -0 0.0175 
+              -0.9998 -0 0.0175 
+              -0.9996 -0 0.0291 
+              -1 -0 0.0026 
+              -1 -0 0.0059 
+              -1 -0 0.0059 
+              -1 -0 0.0004 
+              -1 -0 0.0026 
+              -1 -0 -0.0023 
+              -1 -0 0.0004 
+              -0.9999 -0 -0.0095 
+              -1 -0 -0.0023 
+              -0.9998 -0 -0.0164 
+              -0.9999 -0 -0.0095 
+              0.0971 -0.9803 -0.1717 
+              0.0946 -0.9552 -0.2805 
+              0.0946 -0.9905 -0.0995 
+              0.0956 -0.9948 -0.0343 
+              0.0923 -0.9952 -0.0314 
+              0.0916 -0.9958 0.0043 
+              0.09 -0.9959 0.0016 
+              0.0892 -0.9955 0.0295 
+              0.0884 -0.9958 0.0248 
+              0.0877 -0.9943 0.0607 
+              0.0875 -0.9947 0.0533 
+              0.0869 -0.9839 0.1559 
+              0.0877 -0.9911 0.0999 
+              0.0857 -0.9686 0.2334 
+              0.0971 0.9803 -0.1717 
+              0.0946 0.9905 -0.0995 
+              0.0946 0.9552 -0.2805 
+              0.0956 0.9948 -0.0343 
+              0.0923 0.9952 -0.0314 
+              0.0916 0.9958 0.0043 
+              0.09 0.9959 0.0016 
+              0.0892 0.9955 0.0295 
+              0.0884 0.9958 0.0248 
+              0.0877 0.9943 0.0607 
+              0.0875 0.9947 0.0533 
+              0.0869 0.9839 0.1559 
+              0.0877 0.9911 0.0999 
+              0.0857 0.9686 0.2334 
+            }
+            Indices FALSE 
+            Binding BIND_PER_VERTEX 
+            Normalize 0 
+          }
+          TexCoordData 1 {
+            Data {
+              Array TRUE ArrayID 3 Vec2fArray 42 {
+                0.433601 0.673968 
+                0.433601 0.673968 
+                0.433914 0.663181 
+                0.433414 0.710771 
+                0.433504 0.68539 
+                0.433504 0.68539 
+                0.433369 0.73742 
+                0.433414 0.710771 
+                0.433393 0.764705 
+                0.433369 0.73742 
+                0.43344 0.776761 
+                0.433393 0.764705 
+                0.433534 0.782472 
+                0.43344 0.776761 
+                0.925106 0.868688 
+                0.924793 0.857901 
+                0.956774 0.868688 
+                0.925203 0.88011 
+                0.965778 0.88011 
+                0.925293 0.905491 
+                0.968654 0.905491 
+                0.925337 0.93214 
+                0.964917 0.93214 
+                0.925314 0.959425 
+                0.951528 0.959425 
+                0.925267 0.971481 
+                0.940727 0.971481 
+                0.925173 0.977192 
+                0.433601 0.673968 
+                0.401933 0.673968 
+                0.433914 0.663181 
+                0.433504 0.68539 
+                0.392929 0.68539 
+                0.433414 0.710771 
+                0.390053 0.710771 
+                0.433369 0.73742 
+                0.39379 0.73742 
+                0.433393 0.764705 
+                0.407179 0.764705 
+                0.43344 0.776761 
+                0.41798 0.776761 
+                0.433534 0.782472 
+              }
+              Indices FALSE 
+              Binding BIND_PER_VERTEX 
+              Normalize 0 
+            }
+          }
+        }
+      }
+    }
+  }
+}
