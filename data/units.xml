@@ -3,7 +3,7 @@
 
   <aerial>
     
-    <unit opponent="1" fighter="1" unlock_mission="12">
+    <unit>
       <name>
         <text lang="en">A5M "Claude"</text>
         <text lang="pl">A5M "Claude"</text>
@@ -16,7 +16,7 @@
       </liveries>
       <view>
         <texture>entities/a5m_ijn_1941.rgb</texture>
-        <distance>25</distance>
+        <distance>20</distance>
         <heading>45</heading>
         <offset_x>1.5</offset_x>
       </view>
@@ -49,7 +49,7 @@
       </info>
     </unit>
     
-    <unit opponent="1" fighter="1" unlock_mission="12">
+    <unit>
       <name>
         <text lang="en">A6M "Zero"</text>
         <text lang="pl">A6M "Zero"</text>
@@ -63,7 +63,7 @@
       </liveries>
       <view>
         <texture>entities/a6m_ijn_1943.rgb</texture>
-        <distance>25</distance>
+        <distance>20</distance>
         <heading>45</heading>
         <offset_x>1.5</offset_x>
       </view>
@@ -96,7 +96,7 @@
       </info>
     </unit>
     
-    <unit playable="1" fighter="1" unlock_mission="0">
+    <unit>
       <name>
         <text lang="en">AT-6 Texan</text>
         <text lang="pl">AT-6 Texan</text>
@@ -109,7 +109,7 @@
       </liveries>
       <view>
         <texture>entities/at6_usaaf_1941.rgb</texture>
-        <distance>25</distance>
+        <distance>20</distance>
         <heading>45</heading>
         <offset_x>1.5</offset_x>
       </view>
@@ -142,7 +142,7 @@
       </info>
     </unit>
     
-  <unit opponent="1" unlock_mission="6">
+  <unit>
       <name>
         <text lang="en">B5N "Kate"</text>
         <text lang="pl">B5N "Kate"</text>
@@ -189,7 +189,7 @@
       </info>
     </unit>
     
-    <unit unlock_mission="0">
+    <unit>
       <name>
         <text lang="en">B-17 Flying Fortress</text>
         <text lang="pl">B-17 Flying Fortress</text>
@@ -235,7 +235,7 @@
       </info>
     </unit>
     
-    <unit unlock_mission="20">
+    <unit>
       <name>
         <text lang="en">B-24 Liberator</text>
         <text lang="pl">B-24 Liberator</text>
@@ -281,7 +281,7 @@
       </info>
     </unit>
     
-    <unit unlock_mission="0">
+    <unit>
       <name>
         <text lang="en">B-25 Mitchell</text>
         <text lang="pl">B-25 Mitchell</text>
@@ -294,7 +294,7 @@
       </liveries>
       <view>
         <texture>entities/b25_usaaf_1943.rgb</texture>
-        <distance>35</distance>
+        <distance>39</distance>
         <heading>45</heading>
         <offset_x>2</offset_x>
       </view>
@@ -327,7 +327,7 @@
       </info>
     </unit>
     
-    <unit opponent="1" fighter="1" unlock_mission="0">
+    <unit>
       <name>
         <text lang="en">Bf 109</text>
         <text lang="pl">Bf 109</text>
@@ -375,7 +375,7 @@
       </info>
     </unit>
     
-    <unit opponent="1" fighter="1" unlock_mission="0">
+    <unit>
       <name>
         <text lang="en">Bf 110</text>
         <text lang="pl">Bf 110</text>
@@ -421,7 +421,7 @@
       </info>
     </unit>
     
-    <unit opponent="1" unlock_mission="7">
+    <unit>
       <name>
         <text lang="en">D3A "Val"</text>
         <text lang="pl">D3A "Val"</text>
@@ -468,7 +468,7 @@
       </info>
     </unit>
     
-    <unit opponent="1" unlock_mission="23">
+    <unit>
       <name>
         <text lang="en">D4Y "Judy"</text>
         <text lang="pl">D4Y "Judy"</text>
@@ -481,7 +481,7 @@
       </liveries>
       <view>
         <texture>entities/d4y_ijn_1943.rgb</texture>
-        <distance>25</distance>
+        <distance>20</distance>
         <heading>45</heading>
         <offset_x>1.5</offset_x>
       </view>
@@ -514,7 +514,7 @@
       </info>
     </unit>
     
-    <unit opponent="1" unlock_mission="0">
+    <unit>
       <name>
         <text lang="en">Do 17</text>
         <text lang="pl">Do 17</text>
@@ -560,7 +560,7 @@
       </info>
     </unit>
     
-    <unit playable="1" fighter="1" unlock_mission="3">
+    <unit>
       <name>
         <text lang="en">F2A Buffalo</text>
         <text lang="pl">F2A Buffalo</text>
@@ -576,7 +576,7 @@
       </liveries>
       <view>
         <texture>entities/f2a_rnzaf_1941.rgb</texture>
-        <distance>25</distance>
+        <distance>20</distance>
         <heading>45</heading>
         <offset_x>1.5</offset_x>
       </view>
@@ -609,7 +609,7 @@
       </info>
     </unit>
     
-    <unit playable="1" fighter="1" unlock_mission="11">
+    <unit>
       <name>
         <text lang="en">F4F Wildcat</text>
         <text lang="pl">F4F Wildcat</text>
@@ -625,7 +625,7 @@
       </liveries>
       <view>
         <texture>entities/f4f_usn_1942.rgb</texture>
-        <distance>25</distance>
+        <distance>20</distance>
         <heading>45</heading>
         <offset_x>1.5</offset_x>
       </view>
@@ -658,7 +658,7 @@
       </info>
     </unit>
     
-    <unit playable="1" fighter="1" unlock_mission="27">
+    <unit>
       <name>
         <text lang="en">F4U Corsair</text>
         <text lang="pl">F4U Corsair</text>
@@ -671,7 +671,7 @@
       </liveries>
       <view>
         <texture>entities/f4u_usn_1944.rgb</texture>
-        <distance>25</distance>
+        <distance>20</distance>
         <heading>45</heading>
         <offset_x>1.5</offset_x>
       </view>
@@ -704,7 +704,7 @@
       </info>
     </unit>
     
-    <unit playable="1" fighter="1" unlock_mission="22">
+    <unit>
       <name>
         <text lang="en">F6F Hellcat</text>
         <text lang="pl">F6F Hellcat</text>
@@ -718,7 +718,7 @@
       </liveries>
       <view>
         <texture>entities/f6f_usn_1943.rgb</texture>
-        <distance>25</distance>
+        <distance>20</distance>
         <heading>45</heading>
         <offset_x>1.7</offset_x>
       </view>
@@ -751,7 +751,7 @@
       </info>
     </unit>
     
-    <unit opponent="1" fighter="1" unlock_mission="0">
+    <unit>
       <name>
         <text lang="en">Fw 190 "Wurger"</text>
         <text lang="pl">Fw 190 "Wurger"</text>
@@ -798,7 +798,7 @@
       </info>
     </unit>
     
-    <unit opponent="1" unlock_mission="11">
+    <unit>
       <name>
         <text lang="en">G4M "Betty"</text>
         <text lang="pl">G4M "Betty"</text>
@@ -845,7 +845,7 @@
       </info>
     </unit>
     
-    <unit opponent="1" unlock_mission="0">
+    <unit>
       <name>
         <text lang="en">He 111</text>
         <text lang="pl">He 111</text>
@@ -891,7 +891,7 @@
       </info>
     </unit>
     
-    <unit playable="1" fighter="1" unlock_mission="0">
+    <unit>
       <name>
         <text lang="en">Hurricane</text>
         <text lang="pl">Hurricane</text>
@@ -941,7 +941,7 @@
       </info>
     </unit>
     
-    <unit playable="1" fighter="1" unlock_mission="0">
+    <unit>
       <name>
         <text lang="en">Yak-9</text>
         <text lang="pl">Jak-9</text>
@@ -989,7 +989,7 @@
       </info>
     </unit>
     
-    <unit opponent="1" unlock_mission="0">
+    <unit>
       <name>
         <text lang="en">Ju 88</text>
         <text lang="pl">Ju 88</text>
@@ -1035,7 +1035,7 @@
       </info>
     </unit>
     
-    <unit opponent="1" unlock_mission="8">
+    <unit>
       <name>
         <text lang="en">Ki-21 "Sally"</text>
         <text lang="pl">Ki-21 "Sally"</text>
@@ -1081,7 +1081,7 @@
       </info>
     </unit>
     
-    <unit opponent="1" fighter="1" unlock_mission="0">
+    <unit>
       <name>
         <text lang="en">Ki-43 "Oscar"</text>
         <text lang="pl">Ki-43 "Oscar"</text>
@@ -1127,7 +1127,7 @@
       </info>
     </unit>
     
-    <unit playable="1" fighter="1" unlock_mission="0">
+    <unit>
       <name>
         <text lang="en">MS.406</text>
         <text lang="pl">MS.406</text>
@@ -1174,7 +1174,7 @@
       </info>
     </unit>
     
-    <unit playable="1" fighter="1" unlock_mission="0">
+    <unit>
       <name>
         <text lang="en">Mustang Mk. III</text>
         <text lang="pl">Mustang Mk. III</text>
@@ -1223,7 +1223,7 @@
       </info>
     </unit>
     
-    <unit opponent="1" unlock_mission="28">
+    <unit>
       <name>
         <text lang="en">MXY-7 Ohka</text>
         <text lang="pl">MXY-7 Ohka</text>
@@ -1236,7 +1236,7 @@
       </liveries>
       <view>
         <texture>entities/mxy7_ijn_1945.rgb</texture>
-        <distance>25</distance>
+        <distance>20</distance>
         <heading>45</heading>
         <offset_x>2</offset_x>
       </view>
@@ -1269,7 +1269,7 @@
       </info>
     </unit>
     
-    <unit opponent="1" unlock_mission="0">
+    <unit>
       <name>
         <text lang="en">OQ-2 Radioplane</text>
         <text lang="pl">OQ-2 Radioplane</text>
@@ -1312,7 +1312,7 @@
       </info>
     </unit>
     
-    <unit playable="1" fighter="1" unlock_mission="0">
+    <unit>
       <name>
         <text lang="en">P.11</text>
         <text lang="pl">P.11</text>
@@ -1360,7 +1360,7 @@
       </info>
     </unit>
     
-    <unit playable="1" fighter="1" unlock_mission="4">
+    <unit>
       <name>
         <text lang="en">P-36 Hawk</text>
         <text lang="pl">P-36 Hawk</text>
@@ -1375,7 +1375,7 @@
       </liveries>
       <view>
         <texture>entities/p36_usaaf_1941.rgb</texture>
-        <distance>25</distance>
+        <distance>20</distance>
         <heading>45</heading>
         <offset_x>1.5</offset_x>
       </view>
@@ -1408,7 +1408,7 @@
       </info>
     </unit>
     
-    <unit playable="1" fighter="1" unlock_mission="18">
+    <unit>
       <name>
         <text lang="en">P-38 Lightning</text>
         <text lang="pl">P-38 Lightning</text>
@@ -1455,7 +1455,7 @@
       </info>
     </unit>
     
-    <unit playable="1" fighter="1" unlock_mission="0">
+    <unit>
       <name>
         <text lang="en">P-40 Warhawk</text>
         <text lang="pl">P-40 Warhawk</text>
@@ -1506,7 +1506,7 @@
       </info>
     </unit>
     
-    <unit playable="1" fighter="1" unlock_mission="0">
+    <unit>
       <name>
         <text lang="en">P-47 Thunderbolt</text>
         <text lang="pl">P-47 Thunderbolt</text>
@@ -1556,7 +1556,7 @@
       </info>
     </unit>
     
-    <unit playable="1" fighter="1" unlock_mission="21">
+    <unit>
       <name>
         <text lang="en">P-51 Mustang</text>
         <text lang="pl">P-51 Mustang</text>
@@ -1570,7 +1570,7 @@
       </liveries>
       <view>
         <texture>entities/p51d_usaaf_1943_75fs.rgb</texture>
-        <distance>25</distance>
+        <distance>20</distance>
         <heading>45</heading>
         <offset_x>1.5</offset_x>
       </view>
@@ -1603,53 +1603,7 @@
       </info>
     </unit>
     
-    <unit playable="1" unlock_mission="0">
-      <name>
-        <text lang="en">RWD-8</text>
-        <text lang="pl">RWD-8</text>
-      </name>
-      <file>entities/rwd8.xml</file>
-      <icon>entities/rwd8.png</icon>
-      <icon_locked>entities/rwd8_locked.png</icon_locked>
-      <liveries>
-        <livery name="Lotnictwo Wojskowe RP 1939">entities/rwd8_lwrp_1939.rgb</livery>
-      </liveries>
-      <view>
-        <texture>entities/rwd8_lwrp_1939.rgb</texture>
-        <distance>20</distance>
-        <heading>45</heading>
-        <offset_x>2.0</offset_x>
-      </view>
-      <info>
-        <role>
-          <text lang="en">Trainer</text>
-          <text lang="pl">szkolny</text>
-        </role>
-        <manufacturer>RWD</manufacturer>
-        <first_flight>1933</first_flight>
-        <introduction>1934</introduction>
-        <retired>1948</retired>
-        <number_built>550</number_built>
-        <primary_user>Lotnictwo Wojskowe RP</primary_user>
-        <crew>2</crew>
-        <length>8.00 m</length>
-        <wingspan>11.00 m</wingspan>
-        <height>2.30 m</height>
-        <mtow>750 kg</mtow>
-        <max_speed>175 km/h</max_speed>
-        <range>500 km</range>
-        <powerplant>
-          <text lang="en">PZ Inż. Junior 120 HP piston engine</text>
-          <text lang="pl">Silnik rzędowy PZ Inż. Junior o mocy 120 KM</text>
-        </powerplant>
-        <armament>
-          <text lang="en">none</text>
-          <text lang="pl">brak</text>
-        </armament>
-      </info>
-    </unit>
-    
-    <unit unlock_mission="27">
+    <unit>
       <name>
         <text lang="en">SB2C Helldiver</text>
         <text lang="pl">SB2C Helldiver</text>
@@ -1695,7 +1649,7 @@
       </info>
     </unit>
     
-    <unit unlock_mission="12">
+    <unit>
       <name>
         <text lang="en">SBD Dauntless</text>
         <text lang="pl">SBD Dauntless</text>
@@ -1741,7 +1695,7 @@
       </info>
     </unit>
     
-    <unit playable="1" fighter="1" unlock_mission="19">
+    <unit>
       <name>
         <text lang="en">Seafire</text>
         <text lang="pl">Seafire</text>
@@ -1755,7 +1709,7 @@
       </liveries>
       <view>
         <texture>entities/spitfire_raaf_1943.rgb</texture>
-        <distance>25</distance>
+        <distance>20</distance>
         <heading>45</heading>
         <offset_x>1.5</offset_x>
       </view>
@@ -1788,7 +1742,7 @@
       </info>
     </unit>
     
-    <unit playable="1" fighter="1" unlock_mission="0">
+    <unit>
       <name>
         <text lang="en">Spitfire</text>
         <text lang="pl">Spitfire</text>
@@ -1837,7 +1791,7 @@
       </info>
     </unit>
     
-    <unit unlock_mission="27">
+    <unit>
       <name>
         <text lang="en">TBF Avenger</text>
         <text lang="pl">TBF Avenger</text>
@@ -1884,7 +1838,7 @@
       </info>
     </unit>
     
-    <unit opponent="1" unlock_mission="0">
+    <unit>
       <name>
         <text lang="en">V-1</text>
         <text lang="pl">V-1</text>
@@ -2308,5 +2262,85 @@
     
   </marine>
   
-  <ground></ground>
+  <ground>
+    
+    <unit>
+      <name>
+        <text lang="en">M4 Sherman</text>
+        <text lang="pl">M4 Sherman</text>
+      </name>
+      <file>entities/m4.xml</file>
+      <icon>entities/m4.png</icon>
+      <liveries>
+        <livery name="US Army 1944">entities/m4_usarmy_1944.rgb</livery>
+      </liveries>
+      <view>
+        <texture>entities/m4_usarmy_1944.rgb</texture>
+        <distance>20</distance>
+        <heading>30</heading>
+        <offset_x>0</offset_x>
+      </view>
+      <info>
+        <type>
+          <text lang="en">Tank</text>
+          <text lang="pl">czołg</text>
+        </type>
+        <number_built>49 200</number_built>
+        <!-- TODO -->
+      </info>
+    </unit>
+    
+    <unit>
+      <name>
+        <text lang="en">PzKpfw IV</text>
+        <text lang="pl">PzKpfw IV</text>
+      </name>
+      <file>entities/pzkpfw_iv.xml</file>
+      <icon>entities/pzkpfw_iv.png</icon>
+      <liveries>
+        <livery name="Wehrmacht 1942">entities/pzkpfw_vi_wehrmacht_1942.rgb</livery>
+      </liveries>
+      <view>
+        <texture>entities/pzkpfw_vi_wehrmacht_1942.rgb</texture>
+        <distance>20</distance>
+        <heading>30</heading>
+        <offset_x>0</offset_x>
+      </view>
+      <info>
+        <type>
+          <text lang="en">Tank</text>
+          <text lang="pl">czołg</text>
+        </type>
+        <number_built>8 500</number_built>
+        <!-- TODO -->
+      </info>
+    </unit>
+    
+    <unit>
+      <name>
+        <text lang="en">T-34-85</text>
+        <text lang="pl">T-34-85</text>
+      </name>
+      <file>entities/t34-85.xml</file>
+      <icon>entities/t34-85.png</icon>
+      <liveries>
+        <livery name="Ludowe Wojsko Polskie 1944">entities/t34-85_lwp_1944.rgb</livery>
+      </liveries>
+      <view>
+        <texture>entities/t34-85_lwp_1944.rgb</texture>
+        <distance>20</distance>
+        <heading>30</heading>
+        <offset_x>0</offset_x>
+      </view>
+      <info>
+        <type>
+          <text lang="en">Tank</text>
+          <text lang="pl">czołg</text>
+        </type>
+        <number_built>84 000</number_built>
+        <!-- TODO -->
+      </info>
+    </unit>
+    
+  </ground>
 </units>
