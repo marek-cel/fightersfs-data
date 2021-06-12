@@ -1,0 +1,11 @@
+<campaign>
+  <name>
+    <text lang="en">Training Missions</text>
+    <text lang="pl">Misje Treningowe</text>
+  </name>
+  
+  <mission file="training_01.xml" />
+  <mission file="training_02.xml" />
+  <mission file="training_03.xml" />
+  <mission file="training_04.xml" />
+</campaign>

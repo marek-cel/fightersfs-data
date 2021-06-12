@@ -29,15 +29,15 @@
         <first_flight>1935-02-04</first_flight>
         <introduction>1936</introduction>
         <retired>1945</retired>
-        <number_built>1,094</number_built>
+        <number_built>1094</number_built>
         <primary_user>Imperial Japanese Navy Air Service</primary_user>
         <crew>1 pilot</crew>
-        <length>24'9" (7.55 m)</length>
-        <wingspan>36'1" (11.00 m)</wingspan>
-        <height>10'6" (3.20 m)</height>
-        <mtow>4,017 lb (1,822 kg)</mtow>
-        <max_speed>237 kts (440 km/h)</max_speed>
-        <range>650 nmi (1,200 km)</range>
+        <length>7.55</length>
+        <wingspan>11.00</wingspan>
+        <height>3.20</height>
+        <mtow>1822</mtow>
+        <max_speed>440</max_speed>
+        <range>1200</range>
         <powerplant>
           <text lang="en">Nakajima Kotobuki 41 785 HP 9-cylinder air-cooled radial engine</text>
           <text lang="pl">Silnik gwiazdowy Nakajima Kotobuki 41 o mocy 785 KM</text>
@@ -76,15 +76,15 @@
         <first_flight>1939-04-01</first_flight>
         <introduction>1940</introduction>
         <retired>1945</retired>
-        <number_built>10,939</number_built>
+        <number_built>10939</number_built>
         <primary_user>Imperial Japanese Navy Air Service</primary_user>
         <crew>1 pilot</crew>
-        <length>29'8" (9.06 m)</length>
-        <wingspan>39'4" (12.00 m)</wingspan>
-        <height>10' (3.05 m)</height>
-        <mtow>6,025 lb (2,733 kg)</mtow>
-        <max_speed>287 kts (534 km/h)</max_speed>
-        <range>1,675 nmi (3,104 km)</range>
+        <length>9.06</length>
+        <wingspan>12.00</wingspan>
+        <height>3.05</height>
+        <mtow>2733</mtow>
+        <max_speed>534</max_speed>
+        <range>3100</range>
         <powerplant>
           <text lang="en">Nakajima NK1C Sakae 21 14-cylinder 1,130 HP air-cooled two-row radial engine</text>
           <text lang="pl">Silnik gwiazdowy Nakajima NK1C Sakae 21 o mocy 1130 KM</text>
@@ -122,15 +122,15 @@
         <first_flight>1935-04-01</first_flight>
         <introduction>1937</introduction>
         <retired>1995</retired>
-        <number_built>15,495</number_built>
+        <number_built>15495</number_built>
         <primary_user>United States Army Air Forces</primary_user>
         <crew>1 student and 1 instructor</crew>
-        <length>29' (8.94 m)</length>
-        <wingspan>42' (12.81 m)</wingspan>
-        <height>11'8" (3.57 m)</height>
-        <mtow>5,300 lb (2,404 kg)</mtow>
-        <max_speed>178 kts (335 km/h)</max_speed>
-        <range>652 nmi (1,175 km)</range>
+        <length>8.94</length>
+        <wingspan>12.81</wingspan>
+        <height>3.57</height>
+        <mtow>2404</mtow>
+        <max_speed>335</max_speed>
+        <range>1180</range>
         <powerplant>
           <text lang="en">Pratt &#038; Whitney R-1340-AN-1 Wasp 600 HP radial engine</text>
           <text lang="pl">Silnik gwiazdowy Pratt &#038; Whitney R-1340-AN-1 Wasp o mocy 600 KM</text>
@@ -169,15 +169,15 @@
         <first_flight>1937-01-08</first_flight>
         <introduction>1937</introduction>
         <retired>1945</retired>
-        <number_built>1,149</number_built>
+        <number_built>1149</number_built>
         <primary_user>Imperial Japanese Navy Air Service</primary_user>
         <crew>1 pilot, 1 commander and 1 gunner</crew>
-        <length>33'10" (10.30 m)</length>
-        <wingspan>50'11" (15.52 m)</wingspan>
-        <height>12'2" (3.70 m)</height>
-        <mtow>9,040 lb (4,100 kg)</mtow>
-        <max_speed>204 kts (378 km/h)</max_speed>
-        <range>1,075 nmi (1,992 km)</range>
+        <length>10.30</length>
+        <wingspan>15.52</wingspan>
+        <height>3.70</height>
+        <mtow>4100</mtow>
+        <max_speed>378</max_speed>
+        <range>1990</range>
         <powerplant>
           <text lang="en">Nakajima Sakae 11 1,000 HP radial engine</text>
           <text lang="pl">Silnik gwiazdowy Nakajima Sakae 11 o mocy 1000 KM</text>
@@ -215,15 +215,15 @@
         <first_flight>1935-07-28</first_flight>
         <introduction>1968</introduction>
         <retired>1945</retired>
-        <number_built>12,731</number_built>
+        <number_built>12731</number_built>
         <primary_user>United States Army Air Forces</primary_user>
         <crew>10</crew>
-        <length>22.66 m</length>
-        <wingspan>31.62 m</wingspan>
-        <height>5.82 m</height>
-        <mtow>29,700 kg</mtow>
-        <max_speed>462 km/h</max_speed>
-        <range>3,220 km</range>
+        <length>22.66</length>
+        <wingspan>31.62</wingspan>
+        <height>5.82</height>
+        <mtow>29700</mtow>
+        <max_speed>462</max_speed>
+        <range>3220</range>
         <powerplant>
           <text lang="en">4x Pratt &#038; Whitney R-1820 Cyclone 1,200 HP air-cooled radial piston engine</text>
           <text lang="pl">4 silniki gwiazdowe Pratt &#038; Whitney R-1820 Cyclone o mocy 1200 KM każdy</text>
@@ -261,15 +261,15 @@
         <first_flight>1939-12-29</first_flight>
         <introduction>1941</introduction>
         <retired>1945</retired>
-        <number_built>19,256</number_built>
+        <number_built>19256</number_built>
         <primary_user>United States Army Air Forces</primary_user>
         <crew>11</crew>
-        <length>67'8" (20.6 m)</length>
-        <wingspan>110' (33.5 m)</wingspan>
-        <height>18' (5.5 m)</height>
-        <mtow>65,000 lb (29,500 kg)</mtow>
-        <max_speed>250 kts (488 km/h)</max_speed>
-        <range>1,800 nmi (3,300 km)</range>
+        <length>20.6</length>
+        <wingspan>33.5</wingspan>
+        <height>5.5</height>
+        <mtow>29500</mtow>
+        <max_speed>488</max_speed>
+        <range>3300</range>
         <powerplant>
           <text lang="en">4x Pratt &#038; Whitney R-1830 Twin Wasp 1,200 HP air-cooled radial piston engine</text>
           <text lang="pl">4 silniki gwiazdowe Pratt &#038; Whitney R-1830 Twin Wasp o mocy 1200 KM każdy</text>
@@ -307,15 +307,15 @@
         <first_flight>1940-08-19</first_flight>
         <introduction>1941</introduction>
         <retired>1960</retired>
-        <number_built>9,816</number_built>
+        <number_built>9816</number_built>
         <primary_user>United States Army Air Forces</primary_user>
         <crew>6</crew>
-        <length>16.1 m</length>
-        <wingspan>20.6 m</wingspan>
-        <height>5.0 m</height>
-        <mtow>15,910 kg</mtow>
-        <max_speed>438 km/h</max_speed>
-        <range>2,175 km</range>
+        <length>16.1</length>
+        <wingspan>20.6</wingspan>
+        <height>5.0</height>
+        <mtow>15910</mtow>
+        <max_speed>438</max_speed>
+        <range>2170</range>
         <powerplant>
           <text lang="en">2x Wright R-2600-92 Twin Cyclone 1,900 HP radial piston engine</text>
           <text lang="pl">2 silniki gwiazdowe Wright R-2600-92 Twin Cyclone o mocy 1900 KM każdy</text>
@@ -355,15 +355,15 @@
         <first_flight>1935-05-29</first_flight>
         <introduction>1937</introduction>
         <retired>1965</retired>
-        <number_built>33,984</number_built>
+        <number_built>33984</number_built>
         <primary_user>Luftwaffe</primary_user>
         <crew>1 pilot</crew>
-        <length>8.95 m</length>
-        <wingspan>9.92 m</wingspan>
-        <height>2.60 m</height>
-        <mtow>3,400 kg</mtow>
-        <max_speed>640 km/h</max_speed>
-        <range>850 km</range>
+        <length>8.95</length>
+        <wingspan>9.92</wingspan>
+        <height>2.60</height>
+        <mtow>3400</mtow>
+        <max_speed>640</max_speed>
+        <range>850</range>
         <powerplant>
           <text lang="en">Daimler-Benz DB 601A 1,175 HP V12 engine</text>
           <text lang="pl">Silnik V12 Daimler-Benz DB 601A o mocy 1175 KM</text>
@@ -401,15 +401,15 @@
         <first_flight>1936-05-12</first_flight>
         <introduction>1937</introduction>
         <retired>1945</retired>
-        <number_built>6,170</number_built>
+        <number_built>6170</number_built>
         <primary_user>Luftwaffe</primary_user>
         <crew>2</crew>
-        <length>12.3 m</length>
-        <wingspan>16.3 m</wingspan>
-        <height>3.3 m</height>
-        <mtow>6,750 kg</mtow>
-        <max_speed>595 km/h</max_speed>
-        <range>900 km</range>
+        <length>12.3</length>
+        <wingspan>16.3</wingspan>
+        <height>3.3</height>
+        <mtow>6750</mtow>
+        <max_speed>595</max_speed>
+        <range>900</range>
         <powerplant>
           <text lang="en">2x Daimler-Benz DB 601B 1,455 HP V12 engine</text>
           <text lang="pl">2 silniki V12 Daimler-Benz DB 601B o mocy 1455 KM każdy</text>
@@ -448,15 +448,15 @@
         <first_flight>1938</first_flight>
         <introduction>1939</introduction>
         <retired>1945</retired>
-        <number_built>1,495</number_built>
+        <number_built>1495</number_built>
         <primary_user>Imperial Japanese Navy Air Service</primary_user>
         <crew>1 pilot and 1 gunner</crew>
-        <length>33'5" (10.20 m)</length>
-        <wingspan>47'2" (14.37 m)</wingspan>
-        <height>12'8" (3.85 m)</height>
-        <mtow>8,047 lb (3,650 kg)</mtow>
-        <max_speed>205 kts (389 km/h)</max_speed>
-        <range>795 nmi (1,472 km)</range>
+        <length>10.20</length>
+        <wingspan>14.37</wingspan>
+        <height>3.85</height>
+        <mtow>3650</mtow>
+        <max_speed>389</max_speed>
+        <range>1470</range>
         <powerplant>
           <text lang="en">Mitsubishi Kinsei 44 1,070 HP radial engine</text>
           <text lang="pl">Silnik gwiazdowy Mitsubishi Kinsei 44 o mocy 1070 KM</text>
@@ -494,15 +494,15 @@
         <first_flight>1940-11-15</first_flight>
         <introduction>1942</introduction>
         <retired>1945</retired>
-        <number_built>2,253</number_built>
+        <number_built>2253</number_built>
         <primary_user>Imperial Japanese Navy Air Service</primary_user>
         <crew>1 pilot and 1 gunner</crew>
-        <length>33'6" (10.22 m)</length>
-        <wingspan>37'9" (11.50 m)</wingspan>
-        <height>12'3" (3.74 m)</height>
-        <mtow>9,597 lb (4,353 kg)</mtow>
-        <max_speed>313 kts (550 km/h)</max_speed>
-        <range>820 nmi (1,465 km)</range>
+        <length>10.22</length>
+        <wingspan>11.50</wingspan>
+        <height>3.74</height>
+        <mtow>4353</mtow>
+        <max_speed>550</max_speed>
+        <range>1460</range>
         <powerplant>
           <text lang="en">Aichi Atsuta AE1P 32 liquid-cooled inverted V12 1,400 HP piston engine</text>
           <text lang="pl">Silnik V12 Aichi Atsuta AE1P 32 o mocy 1400 KM</text>
@@ -540,15 +540,15 @@
         <first_flight>1934-11-23</first_flight>
         <introduction>1937</introduction>
         <retired>1945</retired>
-        <number_built>2,139</number_built>
+        <number_built>2139</number_built>
         <primary_user>Luftwaffe</primary_user>
         <crew>4</crew>
-        <length>15.8 m</length>
-        <wingspan>18.0 m</wingspan>
-        <height>4.6 m</height>
-        <mtow>5,210 kg</mtow>
-        <max_speed>410 km/h</max_speed>
-        <range>1,010 km</range>
+        <length>15.8</length>
+        <wingspan>18.0</wingspan>
+        <height>4.6</height>
+        <mtow>5210</mtow>
+        <max_speed>410</max_speed>
+        <range>1010</range>
         <powerplant>
           <text lang="en">2x Bramo 323P 986 HP air-cooled radial engine</text>
           <text lang="pl">2 silniki gwiazdowe Bramo 323P o mocy 986 KM każdy</text>
@@ -592,12 +592,12 @@
         <number_built>509</number_built>
         <primary_user>United States Navy</primary_user>
         <crew>1 pilot</crew>
-        <length>26'4" (8.03 m)</length>
-        <wingspan>35' (10.67 m)</wingspan>
-        <height>12' (3.66 m)</height>
-        <mtow>7,159 lb (3,247 kg)</mtow>
-        <max_speed>279 kts (517 km/h)</max_speed>
-        <range>839 nmi (1,553 km)</range>
+        <length>8.03</length>
+        <wingspan>10.67</wingspan>
+        <height>3.66</height>
+        <mtow>3247</mtow>
+        <max_speed>517</max_speed>
+        <range>1550</range>
         <powerplant>
           <text lang="en">Wright R-1820-40 Cyclone 9 9-cylinder 1,200 HP air-cooled radial piston engine</text>
           <text lang="pl">Silnik gwiazdowy Wright R-1820-40 Cyclone 9 o mocy 1200 KM</text>
@@ -624,7 +624,7 @@
         <livery name="US Navy 1942 (flown by Jim Swett)">entities/f4f_usn_no_77.rgb</livery>
       </liveries>
       <view>
-        <texture>entities/f4f_usn_1942.rgb</texture>
+        <texture>entities/f4f_usn_1942_77.rgb</texture>
         <distance>20</distance>
         <heading>45</heading>
         <offset_x>1.5</offset_x>
@@ -638,15 +638,15 @@
         <first_flight>1937-08-02</first_flight>
         <introduction>1940</introduction>
         <retired>1945</retired>
-        <number_built>7,885</number_built>
+        <number_built>7885</number_built>
         <primary_user>United States Navy</primary_user>
         <crew>1 pilot</crew>
-        <length>28'9" (8.80 m)</length>
-        <wingspan>28' (11.60 m)</wingspan>
-        <height>11'10" (3.60 m)</height>
-        <mtow>8,762 lb (3,974 kg)</mtow>
-        <max_speed>290 kts</max_speed>
-        <range>721 nmi (1,337 km)</range>
+        <length>8.80</length>
+        <wingspan>11.60</wingspan>
+        <height>3.60</height>
+        <mtow>3974</mtow>
+        <max_speed>537</max_speed>
+        <range>1340</range>
         <powerplant>
           <text lang="en">Pratt &#038; Whitney R-1830-86 Twin Wasp 1,200 HP double-row radial piston engine</text>
           <text lang="pl">Silnik gwiazdowy Pratt &#038; Whitney R-1830-86 Twin Wasp o mocy 1200 KM</text>
@@ -684,15 +684,15 @@
         <first_flight>1940-05-29</first_flight>
         <introduction>1942</introduction>
         <retired>1979</retired>
-        <number_built>12,571</number_built>
+        <number_built>12571</number_built>
         <primary_user>United States Navy</primary_user>
         <crew>1 pilot</crew>
-        <length>33'8" (10.26 m)</length>
-        <wingspan>41' (12.50 m)</wingspan>
-        <height>14'9" (4.50 m)</height>
-        <mtow>14,000 lb (6,350 kg)</mtow>
-        <max_speed>388 kts (718 km/h)</max_speed>
-        <range>873 nmi (1,617 km)</range>
+        <length>10.26</length>
+        <wingspan>12.50</wingspan>
+        <height>4.50</height>
+        <mtow>6350</mtow>
+        <max_speed>718</max_speed>
+        <range>1620</range>
         <powerplant>
           <text lang="en">Pratt &#038; Whitney R-2800-18W Double Wasp 2,380 HP radial piston engine</text>
           <text lang="pl">Silnik gwiazdowy Pratt &#038; Whitney R-2800-18W Double Wasp o mocy 2380 KM</text>
@@ -731,15 +731,15 @@
         <first_flight>1942-06-26</first_flight>
         <introduction>1943</introduction>
         <retired>1960</retired>
-        <number_built>12,275</number_built>
+        <number_built>12275</number_built>
         <primary_user>United States Navy</primary_user>
         <crew>1 pilot</crew>
-        <length>33'7" (10.24 m)</length>
-        <wingspan>42'10" (13.06 m)</wingspan>
-        <height>13'1" (3.99 m)</height>
-        <mtow>15,415 lb (6,990 kg)</mtow>
-        <max_speed>330 kts (629 km/h)</max_speed>
-        <range>1,330 nmi (2,460 km)</range>
+        <length>10.24</length>
+        <wingspan>13.06</wingspan>
+        <height>3.99</height>
+        <mtow>6990</mtow>
+        <max_speed>629</max_speed>
+        <range>2460</range>
         <powerplant>
           <text lang="en">Pratt &#038; Whitney R-2800-10W Double Wasp 2,200 HP two-row radial piston engine</text>
           <text lang="pl">Silnik gwiazdowy Pratt &#038; Whitney R-2800-10W Double Wasp o mocy 2200 KM</text>
@@ -778,15 +778,15 @@
         <first_flight>1939-06-01</first_flight>
         <introduction>1941</introduction>
         <retired>1945</retired>
-        <number_built>33,984</number_built>
+        <number_built>33984</number_built>
         <primary_user>Luftwaffe</primary_user>
         <crew>1 pilot</crew>
-        <length>9.00 m</length>
-        <wingspan>10.51 m</wingspan>
-        <height>3.95 m</height>
-        <mtow>4,900 kg</mtow>
-        <max_speed>655 km/h</max_speed>
-        <range>800 km</range>
+        <length>9.00</length>
+        <wingspan>10.51</wingspan>
+        <height>3.95</height>
+        <mtow>4900</mtow>
+        <max_speed>655</max_speed>
+        <range>800</range>
         <powerplant>
           <text lang="en">BMW 801 D-2 1,677 HP air-cooled radial engine</text>
           <text lang="pl">Silnik gwiazdowy BMW 801 D-2 o mocy 1677 KM</text>
@@ -811,7 +811,7 @@
         <livery name="Imperial Japanese Navy Air Service 1942 (Admiral Yamamoto transport)">entities/g4m_ijn_no_323.rgb</livery>
       </liveries>
       <view>
-        <texture>entities/g4m_ijn_1942.rgb</texture>
+        <texture>entities/g4m_ijn_1942_323.rgb</texture>
         <distance>39</distance>
         <heading>45</heading>
         <offset_x>4</offset_x>
@@ -825,15 +825,15 @@
         <first_flight>1939-10-23</first_flight>
         <introduction>1941</introduction>
         <retired>1945</retired>
-        <number_built>2,435</number_built>
+        <number_built>2435</number_built>
         <primary_user>Imperial Japanese Navy Air Service</primary_user>
         <crew>7</crew>
-        <length>65'6" (19.97 m)</length>
-        <wingspan>81'8" (24.89 m)</wingspan>
-        <height>16'1" (4.9 m)</height>
-        <mtow>28,350 lb (12,860 kg)</mtow>
-        <max_speed>230 kts (428 km/h)</max_speed>
-        <range>1,540 nmi (2,852 km)</range>
+        <length>19.97</length>
+        <wingspan>24.89</wingspan>
+        <height>4.9</height>
+        <mtow>12860</mtow>
+        <max_speed>428</max_speed>
+        <range>2850</range>
         <powerplant>
           <text lang="en">2x Mitsubishi MK4A-11 "Kasei" 14-cylinder 1,530 HP radial piston engines</text>
           <text lang="pl">2 silniki gwiazdowe Mitsubishi MK4A-11 "Kasei" o mocy 1530 KM każdy</text>
@@ -871,15 +871,15 @@
         <first_flight>1935-02-24</first_flight>
         <introduction>1935</introduction>
         <retired>1945</retired>
-        <number_built>5,656</number_built>
+        <number_built>5656</number_built>
         <primary_user>Luftwaffe</primary_user>
         <crew>5</crew>
-        <length>16.4 m</length>
-        <wingspan>22.6 m</wingspan>
-        <height>4.0 m</height>
-        <mtow>12,030 kg</mtow>
-        <max_speed>440 km/h</max_speed>
-        <range>2,300 km</range>
+        <length>16.4</length>
+        <wingspan>22.6</wingspan>
+        <height>4.0</height>
+        <mtow>12030</mtow>
+        <max_speed>440</max_speed>
+        <range>2300</range>
         <powerplant>
           <text lang="en">2x Jumo 211F-1 or 211F-2 1,300 HP V12 engines</text>
           <text lang="pl">2 silniki V12 Jumo 211F-1 lub 211F-2 o mocy 1300 KM każdy</text>
@@ -921,15 +921,15 @@
         <first_flight>1935-11-06</first_flight>
         <introduction>1937</introduction>
         <retired>1945</retired>
-        <number_built>14,583</number_built>
+        <number_built>14583</number_built>
         <primary_user>Royal Air Force</primary_user>
         <crew>1 pilot</crew>
-        <length>9.84 m</length>
-        <wingspan>12.2 m</wingspan>
-        <height>4.0 m</height>
-        <mtow>3,950 kg</mtow>
-        <max_speed>547 km/h</max_speed>
-        <range>965 km</range>
+        <length>9.84</length>
+        <wingspan>12.2</wingspan>
+        <height>4.0</height>
+        <mtow>3950</mtow>
+        <max_speed>547</max_speed>
+        <range>960</range>
         <powerplant>
           <text lang="en">Rolls-Royce Merlin 1,185 HP V12 engine</text>
           <text lang="pl">Silnik V12 Rolls-Royce Merlin o mocy 1185 KM</text>
@@ -969,15 +969,15 @@
         <first_flight>1942</first_flight>
         <introduction>1942</introduction>
         <retired>1956</retired>
-        <number_built>16,769</number_built>
+        <number_built>16769</number_built>
         <primary_user>Voyenno Vozdushnye Sily</primary_user>
         <crew>1 pilot</crew>
-        <length>8.55 m</length>
-        <wingspan>9.74 m</wingspan>
-        <height>3.00 m</height>
-        <mtow>3,174 kg</mtow>
-        <max_speed>591 km/h</max_speed>
-        <range>1,360 km</range>
+        <length>8.55</length>
+        <wingspan>9.74</wingspan>
+        <height>3.00</height>
+        <mtow>3174</mtow>
+        <max_speed>591</max_speed>
+        <range>1360</range>
         <powerplant>
           <text lang="en">Klimov BK-105 PF 1,180 HP V12 engine</text>
           <text lang="pl">Silnik V12 Klimov BK-105 PF o mocy 1180 KM</text>
@@ -985,6 +985,52 @@
         <armament>
           <text lang="en">2x 20mm ShVAK cannons, 4x 12.7mm UBS machine guns</text>
           <text lang="pl">2 działka SzWAK kalibru 20mm, 4 karabiny maszynowe OBS kalibru 12,7mm</text>
+        </armament>
+      </info>
+    </unit>
+    
+    <unit>
+      <name>
+        <text lang="en">Ju 87 "Stuka"</text>
+        <text lang="pl">Ju 87 "Stuka"</text>
+      </name>
+      <file>entities/ju87.xml</file>
+      <icon>entities/ju87.png</icon>
+      <icon_locked>entities/ju87_locked.png</icon_locked>
+      <liveries>
+        <livery name="Luftwaffe 1939">entities/ju87_luftwaffe_1939.rgb</livery>
+      </liveries>
+      <view>
+        <texture>entities/ju87_luftwaffe_1939.rgb</texture>
+        <distance>25</distance>
+        <heading>45</heading>
+        <offset_x>1.8</offset_x>
+      </view>
+      <info>
+        <role>
+          <text lang="en">Dive bomber</text>
+          <text lang="pl">bombowiec nurkujący</text>
+        </role>
+        <manufacturer>Junkers</manufacturer>
+        <first_flight>1935-09-17</first_flight>
+        <introduction>1936</introduction>
+        <retired>1945</retired>
+        <number_built>6000</number_built>
+        <primary_user>Luftwaffe</primary_user>
+        <crew>2</crew>
+        <length>11.10</length>
+        <wingspan>13.81</wingspan>
+        <height>4.01</height>
+        <mtow>4336</mtow>
+        <max_speed>383</max_speed>
+        <range>600</range>
+        <powerplant>
+          <text lang="en">Junkers Jumo 211J 1,300 HP V12 engine</text>
+          <text lang="pl">silnik V12 Junkers Jumo 211J o mocy 1300 KM</text>
+        </powerplant>
+        <armament>
+          <text lang="en">2x forward firing 7.92mm MG 17 machine gun, 7.92mm MG 15 rear firing machine gun and 450 kg of bombs</text>
+          <text lang="pl">2 karabiny maszynowe MG 17 kalibru 7,92mm, karabin maszynowy MG 15 kalibru 7,92mm, 450 kg bomb</text>
         </armament>
       </info>
     </unit>
@@ -1015,15 +1061,15 @@
         <first_flight>1936-12-21</first_flight>
         <introduction>1939</introduction>
         <retired>1951</retired>
-        <number_built>15,183</number_built>
+        <number_built>15183</number_built>
         <primary_user>Luftwaffe</primary_user>
         <crew>4</crew>
-        <length>14.36 m</length>
-        <wingspan>20.08 m</wingspan>
-        <height>5.07 m</height>
-        <mtow>14,000 kg</mtow>
-        <max_speed>510 km/h</max_speed>
-        <range>2,430 km</range>
+        <length>14.36</length>
+        <wingspan>20.08</wingspan>
+        <height>5.07</height>
+        <mtow>14000</mtow>
+        <max_speed>510</max_speed>
+        <range>2430</range>
         <powerplant>
           <text lang="en">2x Junkers Jumo 211J 1,420 HP V12 engines</text>
           <text lang="pl">2 silniki V12 Junkers Jumo 211J o mocy 1420 KM każdy</text>
@@ -1061,15 +1107,15 @@
         <first_flight>1936-12-18</first_flight>
         <introduction>1938</introduction>
         <retired>1945</retired>
-        <number_built>2,064</number_built>
+        <number_built>2064</number_built>
         <primary_user>Imperial Japanese Army Air Service</primary_user>
         <crew>7</crew>
-        <length>52'6" (16.0 m)</length>
-        <wingspan>73'10" (22.5 m)</wingspan>
-        <height>15'11" (4.9 m)</height>
-        <mtow>23,320 lb (10,600 kg)</mtow>
-        <max_speed>260 kts (485 km/h)</max_speed>
-        <range>1,460 nmi (2,700 km)</range>
+        <length>16.0</length>
+        <wingspan>22.5</wingspan>
+        <height>4.9</height>
+        <mtow>10600</mtow>
+        <max_speed>485</max_speed>
+        <range>2700</range>
         <powerplant>
           <text lang="en">2x Mitsubishi Ha-101 "Kasei" 14-cylinder 1,530 HP radial piston engines</text>
           <text lang="pl">2 silniki gwiazdowe Mitsubishi Ha-101 "Kasei" o mocy 1530 KM każdy</text>
@@ -1107,15 +1153,15 @@
         <first_flight>1938-12-12</first_flight>
         <introduction>1941</introduction>
         <retired>1952</retired>
-        <number_built>5,919</number_built>
+        <number_built>5919</number_built>
         <primary_user>Imperial Japanese Army Air Service</primary_user>
         <crew>1 pilot</crew>
-        <length>8.92 m</length>
-        <wingspan>10.84 m</wingspan>
-        <height>3.27 m</height>
-        <mtow>2,925 kg</mtow>
-        <max_speed>530 km/h</max_speed>
-        <range>1,760 km</range>
+        <length>8.92</length>
+        <wingspan>10.84</wingspan>
+        <height>3.27</height>
+        <mtow>2925</mtow>
+        <max_speed>530</max_speed>
+        <range>1760</range>
         <powerplant>
           <text lang="en">Nakajima Ha-115 14-cylinder 1,150 HP air-cooled radial piston engine</text>
           <text lang="pl">Silnik gwiazdowy Nakajima Ha-115 o mocy 1150 KM</text>
@@ -1154,15 +1200,15 @@
         <first_flight>1935-08-08</first_flight>
         <introduction>1938</introduction>
         <retired>1959</retired>
-        <number_built>1,176</number_built>
+        <number_built>1176</number_built>
         <primary_user>Armée de l'Air</primary_user>
         <crew>1 pilot</crew>
-        <length>8.17 m</length>
-        <wingspan>10.62 m</wingspan>
-        <height>2.71 m</height>
-        <mtow>2,720 kg</mtow>
-        <max_speed>486 km/h</max_speed>
-        <range>1,000 km</range>
+        <length>8.17</length>
+        <wingspan>10.62</wingspan>
+        <height>2.71</height>
+        <mtow>2720</mtow>
+        <max_speed>486</max_speed>
+        <range>1000</range>
         <powerplant>
           <text lang="en">Hispano-Suiza 12Y-31 liquid-cooled V12 860 HP piston engine</text>
           <text lang="pl">Silnik V12 Hispano-Suiza 12Y-31 o mocy 860 KM</text>
@@ -1203,15 +1249,15 @@
         <first_flight>1940-10-26</first_flight>
         <introduction>1942</introduction>
         <retired>1957</retired>
-        <number_built>ca. 15,000</number_built>
+        <number_built>15000</number_built>
         <primary_user>United States Army Air Forces</primary_user>
         <crew>1 pilot</crew>
-        <length>9.83 m</length>
-        <wingspan>11.23 m</wingspan>
-        <height>4.08 m</height>
-        <mtow>5,490 kg</mtow>
-        <max_speed>708 km/h</max_speed>
-        <range>2,650 km</range>
+        <length>9.83</length>
+        <wingspan>11.23</wingspan>
+        <height>4.08</height>
+        <mtow>5490</mtow>
+        <max_speed>708</max_speed>
+        <range>2650</range>
         <powerplant>
           <text lang="en">Rolls-Royce Merlin 68 liquid-cooled V12 1,670 HP piston engine</text>
           <text lang="pl">Silnik V12 Rolls-Royce Merlin 68 o mocy 1670 KM</text>
@@ -1252,12 +1298,12 @@
         <number_built>852</number_built>
         <primary_user>Imperial Japanese Navy Air Service</primary_user>
         <crew>1 pilot</crew>
-        <length>19'11" (6.06 m)</length>
-        <wingspan>16'10" (5.12 m)</wingspan>
-        <height>3'9" (1.16 m)</height>
-        <mtow>5,004 lb (2,270 kg)</mtow>
-        <max_speed>434 kts (804 km/h)</max_speed>
-        <range>23 nmi (36 km)</range>
+        <length>6.06</length>
+        <wingspan>5.12</wingspan>
+        <height>1.16</height>
+        <mtow>2270</mtow>
+        <max_speed>804</max_speed>
+        <range>36</range>
         <powerplant>
           <text lang="en">3x Type 4 Mark 1 Model 20 2.6 kN thrust solid propellant rocket motors</text>
           <text lang="pl">3 silniki rakietowe na paliwo stałe Typ 4 Model 20 o ciągu 2,6 kN</text>
@@ -1292,15 +1338,15 @@
         <first_flight>1939</first_flight>
         <introduction>1941</introduction>
         <retired>1952</retired>
-        <number_built>15,000</number_built>
+        <number_built>15000</number_built>
         <primary_user>United States Army Air Forces</primary_user>
         <crew>0</crew>
-        <length>8'8" (2.65 m)</length>
-        <wingspan>12'3" (3.73 m)</wingspan>
-        <height></height>
-        <mtow>104 lb (47 kg)</mtow>
-        <max_speed>74 kts (137 km/h)</max_speed>
-        <range>50 nmi (93 km)</range>
+        <length>2.65</length>
+        <wingspan>3.73</wingspan>
+        <height>0.5</height>
+        <mtow>47</mtow>
+        <max_speed>137</max_speed>
+        <range>93</range>
         <powerplant>
           <text lang="en">Righter O-15-1 7 HP piston engine</text>
           <text lang="pl">Silnik tłokowy Righter O-15-1 o mocy 7 KM</text>
@@ -1343,12 +1389,12 @@
         <number_built>350</number_built>
         <primary_user>Lotnictwo Wojskowe RP</primary_user>
         <crew>1 pilot</crew>
-        <length>7.55 m</length>
-        <wingspan>10.72 m</wingspan>
-        <height>2.85 m</height>
-        <mtow>1,800 kg</mtow>
-        <max_speed>360 km/h</max_speed>
-        <range>550 km</range>
+        <length>7.55</length>
+        <wingspan>10.72</wingspan>
+        <height>2.85</height>
+        <mtow>1800</mtow>
+        <max_speed>360</max_speed>
+        <range>550</range>
         <powerplant>
           <text lang="en">Bristol Mercury VIS2 645 HP 9-cylinder air-cooled radial engine</text>
           <text lang="pl">Silnik gwiazdowy Bristol Mercury VIS2 o mocy 645 KM</text>
@@ -1374,7 +1420,7 @@
         <livery name="US Army Air Forces 1941 (flown by Phil Rasmussen)">entities/p36_usaaf_no_86.rgb</livery>
       </liveries>
       <view>
-        <texture>entities/p36_usaaf_1941.rgb</texture>
+        <texture>entities/p36_usaaf_1941_2.rgb</texture>
         <distance>20</distance>
         <heading>45</heading>
         <offset_x>1.5</offset_x>
@@ -1388,15 +1434,15 @@
         <first_flight>1935-05-06</first_flight>
         <introduction>1938</introduction>
         <retired>1954</retired>
-        <number_built>1,115</number_built>
+        <number_built>1115</number_built>
         <primary_user>United States Army Air Forces</primary_user>
         <crew>1 pilot</crew>
-        <length>28'6" (8.70 m)</length>
-        <wingspan>37'4" (11.40 m)</wingspan>
-        <height>8'5" (2.60 m)</height>
-        <mtow>6,010 lb (2,732 kg)</mtow>
-        <max_speed>272 kts (500 km/h)</max_speed>
-        <range>543 nmi (1,006 km)</range>
+        <length>8.70</length>
+        <wingspan>11.40</wingspan>
+        <height>2.60</height>
+        <mtow>2732</mtow>
+        <max_speed>500</max_speed>
+        <range>1000</range>
         <powerplant>
           <text lang="en">Pratt &#038; Whitney R-1830-17 Twin Wasp 1,050 HP air-cooled radial piston engine</text>
           <text lang="pl">Silnik gwiazdowy Pratt &#038; Whitney R-1830-17 Twin Wasp o mocy 1050 KM</text>
@@ -1421,7 +1467,7 @@
         <livery name="US Army Air Forces 1942 (Miss Virginia)">entities/p38_usaaf_no_147.rgb</livery>
       </liveries>
       <view>
-        <texture>entities/p38_usaaf_1942.rgb</texture>
+        <texture>entities/p38_usaaf_1942_147.rgb</texture>
         <distance>25</distance>
         <heading>45</heading>
         <offset_x>2</offset_x>
@@ -1435,15 +1481,15 @@
         <first_flight>1939-01-27</first_flight>
         <introduction>1941</introduction>
         <retired>1965</retired>
-        <number_built>10,037</number_built>
+        <number_built>10037</number_built>
         <primary_user>United States Army Air Forces</primary_user>
         <crew>1 pilot</crew>
-        <length>37'10" (11.53 m)</length>
-        <wingspan>52' (15.85 m)</wingspan>
-        <height>12'10" (3.91 m)</height>
-        <mtow>21,600 lb (9,798 kg)</mtow>
-        <max_speed>360 kts (666 km/h)</max_speed>
-        <range>1,134 nmi (2,100 km)</range>
+        <length>11.53</length>
+        <wingspan>15.85</wingspan>
+        <height>3.91</height>
+        <mtow>9798</mtow>
+        <max_speed>666</max_speed>
+        <range>2100</range>
         <powerplant>
           <text lang="en">2x Allison V-1710-111/113 V12 1,600 HP piston engine</text>
           <text lang="pl">2 silniki V12 Allison V-1710-111/113 o mocy 1600 KM każdy</text>
@@ -1486,15 +1532,15 @@
         <first_flight>1938-10-14</first_flight>
         <introduction>1939</introduction>
         <retired>1958</retired>
-        <number_built>13,738</number_built>
+        <number_built>13738</number_built>
         <primary_user>United States Army Air Forces</primary_user>
         <crew>1 pilot</crew>
-        <length>9.68 m</length>
-        <wingspan>11.38 m</wingspan>
-        <height>3.76 m</height>
-        <mtow>4,000 kg</mtow>
-        <max_speed>580 km/h</max_speed>
-        <range>1,100 km</range>
+        <length>9.68</length>
+        <wingspan>11.38</wingspan>
+        <height>3.76</height>
+        <mtow>4000</mtow>
+        <max_speed>580</max_speed>
+        <range>1100</range>
         <powerplant>
           <text lang="en">Allison V-1710-39 liquid-cooled V12 1,150 HP piston engine</text>
           <text lang="pl">Silnik V12 Allison V-1710-39 o mocy 1150 KM</text>
@@ -1536,15 +1582,15 @@
         <first_flight>1941-05-06</first_flight>
         <introduction>1942</introduction>
         <retired>1966</retired>
-        <number_built>15,636</number_built>
-        <primary_user>USAAF</primary_user>
+        <number_built>15636</number_built>
+        <primary_user>United States Army Air Forces</primary_user>
         <crew>1 pilot</crew>
-        <length>11.00 m</length>
-        <wingspan>12.42 m</wingspan>
-        <height>4.47 m</height>
-        <mtow>7,940 kg</mtow>
-        <max_speed>700 km/h</max_speed>
-        <range>2,900 km</range>
+        <length>11.00</length>
+        <wingspan>12.42</wingspan>
+        <height>4.47</height>
+        <mtow>7940</mtow>
+        <max_speed>700</max_speed>
+        <range>2900</range>
         <powerplant>
           <text lang="en">Pratt &#038; Whitney R-2800-18W Double Wasp 2,600 HP radial piston engine</text>
           <text lang="pl">Silnik gwiazdowy Pratt &#038; Whitney R-2800-18W Double Wasp o mocy 2600 KM</text>
@@ -1583,15 +1629,15 @@
         <first_flight>1940-10-26</first_flight>
         <introduction>1942</introduction>
         <retired>1957</retired>
-        <number_built>ca. 15,000</number_built>
+        <number_built>15000</number_built>
         <primary_user>United States Army Air Forces</primary_user>
         <crew>1 pilot</crew>
-        <length>32'3" (9.83 m)</length>
-        <wingspan>37' (11.228 m)</wingspan>
-        <height>13'5" (4.08 m)</height>
-        <mtow>12,100 lb (5,490 kg)</mtow>
-        <max_speed>383 kts (708 km/h)</max_speed>
-        <range>1,400 nmi (2,650 km)</range>
+        <length>9.83</length>
+        <wingspan>11.23</wingspan>
+        <height>4.08</height>
+        <mtow>5490</mtow>
+        <max_speed>708</max_speed>
+        <range>2650</range>
         <powerplant>
           <text lang="en">Packard V-1650-7 liquid-cooled V12 1,490 HP piston engine</text>
           <text lang="pl">Silnik V12 Packard V-1650-7 o mocy 1490 KM</text>
@@ -1629,15 +1675,15 @@
         <first_flight>1940-12-18</first_flight>
         <introduction>1942</introduction>
         <retired>1959</retired>
-        <number_built>7,140</number_built>
+        <number_built>7140</number_built>
         <primary_user>United States Navy</primary_user>
         <crew>1 pilot and 1 gunner</crew>
-        <length>36'8" (11.18 m)</length>
-        <wingspan>49'9" (15.17 m)</wingspan>
-        <height>13'2" (4.01 m)</height>
-        <mtow>16,616 lb (7,553 kg)</mtow>
-        <max_speed>257 kts (475 km/h)</max_speed>
-        <range>1,013 nmi (1,876 km)</range>
+        <length>11.18</length>
+        <wingspan>15.17</wingspan>
+        <height>4.01</height>
+        <mtow>7553</mtow>
+        <max_speed>475</max_speed>
+        <range>1880</range>
         <powerplant>
           <text lang="en">Wright R-2600-20 Twin Cyclone 1,900 HP radial piston engine</text>
           <text lang="pl">Silnik gwiazdowy Wright R-2600-20 Twin Cyclone o mocy 1900 KM</text>
@@ -1675,15 +1721,15 @@
         <first_flight>1940-05-01</first_flight>
         <introduction>1940</introduction>
         <retired>1959</retired>
-        <number_built>5,936</number_built>
+        <number_built>5936</number_built>
         <primary_user>United States Navy</primary_user>
         <crew>1 pilot and 1 gunner</crew>
-        <length>33'1" (10.09 m)</length>
-        <wingspan>41'6" (12.66 m)</wingspan>
-        <height>13'7" (4.14 m)</height>
-        <mtow>10,700 lb (4,853 kg)</mtow>
-        <max_speed>222 kts (410 km/h)</max_speed>
-        <range>970 nmi (1,795 km)</range>
+        <length>10.09</length>
+        <wingspan>12.66</wingspan>
+        <height>4.14</height>
+        <mtow>4853</mtow>
+        <max_speed>410</max_speed>
+        <range>1800</range>
         <powerplant>
           <text lang="en">Wright R-1820-60 Cyclone 1,200 HP radial piston engine</text>
           <text lang="pl">Silnik gwiazdowy Wright R-1820-60 Cyclone o mocy 1200 KM</text>
@@ -1722,15 +1768,15 @@
         <first_flight>1942-01-07</first_flight>
         <introduction>1942</introduction>
         <retired>1961</retired>
-        <number_built>2,646</number_built>
+        <number_built>2646</number_built>
         <primary_user>Fleet Air Arm</primary_user>
         <crew>1 pilot</crew>
-        <length>30'3" (9.21 m)</length>
-        <wingspan>36'10" (11.22 m)</wingspan>
-        <height>11'5" (3.48 m)</height>
-        <mtow>7,640 lb (3,466 kg)</mtow>
-        <max_speed>312 kts (578 km/h)</max_speed>
-        <range>445 nmi (825 km)</range>
+        <length>9.21</length>
+        <wingspan>11.22</wingspan>
+        <height>3.48</height>
+        <mtow>3466</mtow>
+        <max_speed>578</max_speed>
+        <range>830</range>
         <powerplant>
           <text lang="en">Rolls-Royce Merlin 55M supercharged 1,585 HP V12 engine</text>
           <text lang="pl">Silnik V12 Rolls-Royce Merlin 55M o mocy 1585 KM</text>
@@ -1771,15 +1817,15 @@
         <first_flight>1936-03-05</first_flight>
         <introduction>1938</introduction>
         <retired>1961</retired>
-        <number_built>20,351</number_built>
+        <number_built>20351</number_built>
         <primary_user>Royal Air Force</primary_user>
         <crew>1 pilot</crew>
-        <length>9.21 m</length>
-        <wingspan>11.22 m</wingspan>
-        <height>3.48 m</height>
-        <mtow>2,814 kg</mtow>
-        <max_speed>578 km/h</max_speed>
-        <range>825 km</range>
+        <length>9.21</length>
+        <wingspan>11.22</wingspan>
+        <height>3.48</height>
+        <mtow>2814</mtow>
+        <max_speed>578</max_speed>
+        <range>830</range>
         <powerplant>
           <text lang="en">Rolls-Royce Merlin 45M supercharged 1,470 HP V12 engine</text>
           <text lang="pl">Silnik V12 Rolls-Royce Merlin 45M o mocy 1470 KM</text>
@@ -1818,15 +1864,15 @@
         <first_flight>1941-08-07</first_flight>
         <introduction>1942</introduction>
         <retired>1960</retired>
-        <number_built>9,839</number_built>
+        <number_built>9839</number_built>
         <primary_user>United States Navy</primary_user>
         <crew>1 pilot and 2 gunners</crew>
-        <length>41' (12.48 m)</length>
-        <wingspan>54'2" (16.51 m)</wingspan>
-        <height>15'5" (4.70 m)</height>
-        <mtow>17,893 lb (8,115 kg)</mtow>
-        <max_speed>239 kts (442 km/h)</max_speed>
-        <range>870 nmi (1,610 km)</range>
+        <length>12.48</length>
+        <wingspan>16.51</wingspan>
+        <height>4.70</height>
+        <mtow>8115</mtow>
+        <max_speed>442</max_speed>
+        <range>1610</range>
         <powerplant>
           <text lang="en">Wright R-2600-20 Twin Cyclone 1,900 HP radial piston engine</text>
           <text lang="pl">Silnik gwiazdowy Wright R-2600-20 Twin Cyclone o mocy 1900 KM</text>
@@ -1864,15 +1910,15 @@
         <first_flight>1942</first_flight>
         <introduction>1944</introduction>
         <retired>1945</retired>
-        <number_built>ca. 10,000</number_built>
+        <number_built>10000</number_built>
         <primary_user>Luftwaffe</primary_user>
         <crew>0</crew>
-        <length>8.32 m</length>
-        <wingspan>5.37 m</wingspan>
-        <height>1.42 m</height>
-        <mtow>2150 kg</mtow>
-        <max_speed>640 km/h</max_speed>
-        <range>250 km</range>
+        <length>8.32</length>
+        <wingspan>5.37</wingspan>
+        <height>1.42</height>
+        <mtow>2150</mtow>
+        <max_speed>640</max_speed>
+        <range>250</range>
         <powerplant>
           <text lang="en">Argus As 109-014 20 2.7 kN thrust pulsejet</text>
           <text lang="pl">Silnik pulsacyjny Argus As 109-014 20 o ciągu 2,7 kN</text>
@@ -1896,7 +1942,7 @@
       <file>entities/agano.xml</file>
       <icon>entities/agano.png</icon>
       <view>
-        <distance>250</distance>
+        <distance>230</distance>
         <heading>30</heading>
         <offset_x>-15</offset_x>
       </view>
@@ -1906,11 +1952,11 @@
           <text lang="pl">lekki krążownik</text>
         </type>
         <number_built>4</number_built>
-        <displacement>6,652 t</displacement>
-        <length>571' (174 m)</length>
-        <beam>50' (15.2 m)</beam>
-        <draft>18' (5.6 m)</draft>
-        <max_speed>35 kts (65 km/h)</max_speed>
+        <displacement>6652</displacement>
+        <length>174</length>
+        <beam>15.2</beam>
+        <draft>5.6</draft>
+        <max_speed>35</max_speed>
         <complement>730</complement>
         <armament>
           <text lang="en">6x 152mm Type 41 guns, 4x 76.2mm Type 98 DP guns, 6x 25mm AA guns, 4x 13mm Type 93 AA machine guns, 8x 610mm torpedos, 16x depth charges, 3x Type 88 mines</text>
@@ -1927,7 +1973,7 @@
       <file>entities/essex.xml</file>
       <icon>entities/essex.png</icon>
       <view>
-        <distance>300</distance>
+        <distance>280</distance>
         <heading>30</heading>
         <offset_x>-50</offset_x>
       </view>
@@ -1937,12 +1983,12 @@
           <text lang="pl">lotniskowiec</text>
         </type>
         <number_built>24</number_built>
-        <displacement>30,800 t</displacement>
-        <length>820' (250 m)</length>
-        <beam>93' (28.3 m)</beam>
-        <draft>23' (7.0 m)</draft>
-        <max_speed>33 kts (61 km/h)</max_speed>
-        <complement>2,631</complement>
+        <displacement>30800</displacement>
+        <length>250</length>
+        <beam>28.3</beam>
+        <draft>7.0</draft>
+        <max_speed>33</max_speed>
+        <complement>2631</complement>
         <armament>
           <text lang="en">12x 5-inch guns, 32x 40mm Bofors AA guns, 55x 20mm Oerlikon cannon, 100 aircrafts</text>
           <text lang="pl">12 dział kalibru 127mm, 32 działa przecilotnicze Bofors kalibru 40mm, 55 działek Oerlikon kalibru 20mm, 100 samolotów</text>
@@ -1958,7 +2004,7 @@
       <file>entities/farragut.xml</file>
       <icon>entities/farragut.png</icon>
       <view>
-        <distance>200</distance>
+        <distance>180</distance>
         <heading>30</heading>
         <offset_x>-10</offset_x>
       </view>
@@ -1968,11 +2014,11 @@
           <text lang="pl">niszczyciel</text>
         </type>
         <number_built>8</number_built>
-        <displacement>2,064 t</displacement>
-        <length>341'3" (104 m)</length>
-        <beam>34'3" (10.4 m)</beam>
-        <draft>16'2" (4.9 m)</draft>
-        <max_speed>37 kts (69 km/h)</max_speed>
+        <displacement>2064</displacement>
+        <length>104</length>
+        <beam>10.4</beam>
+        <draft>4.9</draft>
+        <max_speed>37</max_speed>
         <complement>250</complement>
         <armament>
           <text lang="en">5x 5-inch guns, 4x .50-inch machine guns, 8x 21-inch torpedos</text>
@@ -1989,7 +2035,7 @@
       <file>entities/fletcher.xml</file>
       <icon>entities/fletcher.png</icon>
       <view>
-        <distance>200</distance>
+        <distance>180</distance>
         <heading>30</heading>
         <offset_x>-10</offset_x>
       </view>
@@ -1999,11 +2045,11 @@
           <text lang="pl">niszczyciel</text>
         </type>
         <number_built>175</number_built>
-        <displacement>2,500 t</displacement>
-        <length>376'6" (115 m)</length>
-        <beam>39'6" (12.0 m)</beam>
-        <draft>17'6" (5.3 m)</draft>
-        <max_speed>37 kts (68 km/h)</max_speed>
+        <displacement>2500</displacement>
+        <length>115</length>
+        <beam>12.0</beam>
+        <draft>5.3</draft>
+        <max_speed>37</max_speed>
         <complement>329</complement>
         <armament>
           <text lang="en">5x 5-inch guns, 6x 40mm Bofors AA guns, 7x 20mm Oerlikon autocannons, 10x 21-inch torpedos, 6x K-gun depth charge projectors</text>
@@ -2020,7 +2066,7 @@
       <file>entities/grom.xml</file>
       <icon>entities/grom.png</icon>
       <view>
-        <distance>150</distance>
+        <distance>180</distance>
         <heading>30</heading>
         <offset_x>-10</offset_x>
       </view>
@@ -2030,11 +2076,11 @@
           <text lang="pl">niszczyciel</text>
         </type>
         <number_built>2</number_built>
-        <displacement>2144 t</displacement>
-        <length>114 m</length>
-        <beam>11.2 m</beam>
-        <draft>3.3 m</draft>
-        <max_speed>40 kts</max_speed>
+        <displacement>2144</displacement>
+        <length>114</length>
+        <beam>11.2</beam>
+        <draft>3.3</draft>
+        <max_speed>40</max_speed>
         <complement>192</complement>
         <armament>
           <text lang="en">7x 120mm Bofors wz.36 guns, 4x 40mm Bofors wz.36 AA guns, 4x 13.7mm Hotchkiss wz.30 machine guns, 6x 550mm torpedo tubes</text>
@@ -2051,7 +2097,7 @@
       <file>entities/iowa.xml</file>
       <icon>entities/iowa.png</icon>
       <view>
-        <distance>300</distance>
+        <distance>280</distance>
         <heading>30</heading>
         <offset_x>-40</offset_x>
       </view>
@@ -2061,12 +2107,12 @@
           <text lang="pl">pancernik</text>
         </type>
         <number_built>4</number_built>
-        <displacement>58,460 t</displacement>
-        <length>887' (270 m)</length>
-        <beam>108' (33.0 m)</beam>
-        <draft>32' (11.0 m)</draft>
-        <max_speed>33 kts (61 km/h)</max_speed>
-        <complement>2,700</complement>
+        <displacement>58460</displacement>
+        <length>270</length>
+        <beam>33.0</beam>
+        <draft>11.0</draft>
+        <max_speed>33</max_speed>
+        <complement>2700</complement>
         <armament>
           <text lang="en">9x 16-inch Mark 7 guns, 20x 5-inch Mark 12 guns, 80x 40mm Bofors AA guns, 49x 20mm Oerlikon cannons</text>
           <text lang="pl">9 dział Mark 7 kalibru 406mm, 20 dział Mark 12 kalibru 127mm, 80 dział przeciwlotniczych Bofors kalibru 40mm, 49 działek Oerlikon kalibru 20mm</text>
@@ -2082,7 +2128,7 @@
       <file>entities/kagero.xml</file>
       <icon>entities/kagero.png</icon>
       <view>
-        <distance>200</distance>
+        <distance>180</distance>
         <heading>30</heading>
         <offset_x>-10</offset_x>
       </view>
@@ -2092,11 +2138,11 @@
           <text lang="pl">niszczyciel</text>
         </type>
         <number_built>19</number_built>
-        <displacement>2,540 t</displacement>
-        <length>390'5" (119 m)</length>
-        <beam>35'5" (10.8 m)</beam>
-        <draft>12'6" (3.8 m)</draft>
-        <max_speed>36 kts (66 km/h)</max_speed>
+        <displacement>2540</displacement>
+        <length>119</length>
+        <beam>10.8</beam>
+        <draft>3.8</draft>
+        <max_speed>36</max_speed>
         <complement>239</complement>
         <armament>
           <text lang="en">6x 127mm Type 3 guns, 4x 25mm Type 96 AA guns, 16x Type 93 torpedos, 18x Type 95 depth charges</text>
@@ -2113,7 +2159,7 @@
       <file>entities/lexington.xml</file>
       <icon>entities/lexington.png</icon>
       <view>
-        <distance>300</distance>
+        <distance>280</distance>
         <heading>30</heading>
         <offset_x>-50</offset_x>
       </view>
@@ -2123,12 +2169,12 @@
           <text lang="pl">lotniskowiec</text>
         </type>
         <number_built>2</number_built>
-        <displacement>43,746 t</displacement>
-        <length>888' (271 m)</length>
-        <beam>106' (32.3 m)</beam>
-        <draft>30'5" (9.3 m)</draft>
-        <max_speed>33 kts (62 km/h)</max_speed>
-        <complement>2,791</complement>
+        <displacement>43746</displacement>
+        <length>271</length>
+        <beam>32.3</beam>
+        <draft>9.3</draft>
+        <max_speed>33</max_speed>
+        <complement>2791</complement>
         <armament>
           <text lang="en">8x 8-inch guns, 12x 5-inch anti-aircraft guns, 78 aircrafts</text>
           <text lang="pl">8 dział kalibru 203mm, 5 dział przeciwlotniczych, 78 samolotów</text>
@@ -2144,7 +2190,7 @@
       <file>entities/matsu.xml</file>
       <icon>entities/matsu.png</icon>
       <view>
-        <distance>200</distance>
+        <distance>180</distance>
         <heading>30</heading>
         <offset_x>-10</offset_x>
       </view>
@@ -2154,11 +2200,11 @@
           <text lang="pl">niszczyciel</text>
         </type>
         <number_built>32</number_built>
-        <displacement>1,530 t</displacement>
-        <length>328' (100 m)</length>
-        <beam>30'8" (9.4 m)</beam>
-        <draft>10'10" (3.3 m)</draft>
-        <max_speed>28 kts (52 km/h)</max_speed>
+        <displacement>1530</displacement>
+        <length>100</length>
+        <beam>9.4</beam>
+        <draft>3.3</draft>
+        <max_speed>28</max_speed>
         <complement>211</complement>
         <armament>
           <text lang="en">3x 127mm Type 89 AA guns, 4x Type 93 torpedos, 36x Type 2 depth charges</text>
@@ -2175,7 +2221,7 @@
       <file>entities/yamato.xml</file>
       <icon>entities/yamato.png</icon>
       <view>
-        <distance>300</distance>
+        <distance>280</distance>
         <heading>30</heading>
         <offset_x>-40</offset_x>
       </view>
@@ -2185,12 +2231,12 @@
           <text lang="pl">pancernik</text>
         </type>
         <number_built>2</number_built>
-        <displacement>73,000 t</displacement>
-        <length>840' (256 m)</length>
-        <beam>121'1" (36.9 m)</beam>
-        <draft>34'1" (10.4 m)</draft>
-        <max_speed>27 kts (50 km/h)</max_speed>
-        <complement>2,767</complement>
+        <displacement>73000</displacement>
+        <length>256</length>
+        <beam>36.9</beam>
+        <draft>10.4</draft>
+        <max_speed>27</max_speed>
+        <complement>2767</complement>
         <armament>
           <text lang="en">9x 460mm guns, 12x 155mm guns, 12x 127mm guns, 24x 25mm anti-aircraft guns, 4x 13.2mm anti-aircraft guns</text>
           <text lang="pl">9 dział kalibru 460mm, 12 dział kalibru 155mm, 12 dział kalibru 127mm, 24 działa przecilotnicze kalibru 25mm, 4 karabiny maszynowe kalibru 13,2mm</text>
@@ -2206,7 +2252,7 @@
       <file>entities/yorktown.xml</file>
       <icon>entities/yorktown.png</icon>
       <view>
-        <distance>300</distance>
+        <distance>280</distance>
         <heading>30</heading>
         <offset_x>-40</offset_x>
       </view>
@@ -2216,12 +2262,12 @@
           <text lang="pl">lotniskowiec</text>
         </type>
         <number_built>3</number_built>
-        <displacement>25,900 t</displacement>
-        <length>770' (230 m)</length>
-        <beam>83' (25.0 m)</beam>
-        <draft>24'4" (7.9 m)</draft>
-        <max_speed>33 kts (60 km/h)</max_speed>
-        <complement>2,217</complement>
+        <displacement>25900</displacement>
+        <length>230</length>
+        <beam>25.0</beam>
+        <draft>7.9</draft>
+        <max_speed>33</max_speed>
+        <complement>2217</complement>
         <armament>
           <text lang="en">8x 5-inch guns, 16x 1.1-inch guns, 24x .50 machine guns, 90 aircrafts</text>
           <text lang="pl">8 dział kalibru 127mm, 16 działek kalibru 30mm, 24 karabiny maszynowe kalibru 12,7mm, 90 samolotów</text>
@@ -2237,7 +2283,7 @@
       <file>entities/zuiho.xml</file>
       <icon>entities/zuiho.png</icon>
       <view>
-        <distance>300</distance>
+        <distance>280</distance>
         <heading>30</heading>
         <offset_x>-25</offset_x>
       </view>
@@ -2247,11 +2293,11 @@
           <text lang="pl">lotniskowiec</text>
         </type>
         <number_built>2</number_built>
-        <displacement>11,400 t</displacement>
-        <length>674' (206 m)</length>
-        <beam>59'8" (18.2 m)</beam>
-        <draft>21'7" (6.6 m)</draft>
-        <max_speed>28 kts (52 km/h)</max_speed>
+        <displacement>11400</displacement>
+        <length>206</length>
+        <beam>18.2</beam>
+        <draft>6.6</draft>
+        <max_speed>28</max_speed>
         <complement>785</complement>
         <armament>
           <text lang="en">8x 127mm Type 89 guns, 8x 25mm Type 96 guns, 30 aircrafts</text>
@@ -2282,10 +2328,14 @@
       </view>
       <info>
         <type>
-          <text lang="en">Tank</text>
-          <text lang="pl">czołg</text>
+          <text lang="en">Medium tank</text>
+          <text lang="pl">czołg średni</text>
         </type>
-        <number_built>49 200</number_built>
+        <number_built>49200</number_built>
+        <armament>
+          <text lang="en">75mm M3 gun, Browning M2 .50 caliber machine gun, 2x Browning M1919 .30 caliber machine guns</text>
+          <text lang="pl">armata M3 kalibru 75mm, karabin maszynowy Browning M2, 2 karabiny maszynowe Browning M1919</text>
+        </armament>
         <!-- TODO -->
       </info>
     </unit>
@@ -2308,10 +2358,14 @@
       </view>
       <info>
         <type>
-          <text lang="en">Tank</text>
-          <text lang="pl">czołg</text>
+          <text lang="en">Medium tank</text>
+          <text lang="pl">czołg średni</text>
         </type>
-        <number_built>8 500</number_built>
+        <number_built>8500</number_built>
+        <armament>
+          <text lang="en">75mm KwK 40 gun, 2x 7.92mm MG 34 machine guns</text>
+          <text lang="pl">armata KwK 40 kalibru 75mm, 2 karabiny maszynowe MG 34</text>
+        </armament>
         <!-- TODO -->
       </info>
     </unit>
@@ -2334,10 +2388,14 @@
       </view>
       <info>
         <type>
-          <text lang="en">Tank</text>
-          <text lang="pl">czołg</text>
+          <text lang="en">Medium tank</text>
+          <text lang="pl">czołg średni</text>
         </type>
-        <number_built>84 000</number_built>
+        <number_built>84000</number_built>
+        <armament>
+          <text lang="en">85mm ZiS-S-53 gun, 2x 7.62mm DT machine guns</text>
+          <text lang="pl">armata ZiS-S-53 kalibru 85mm, 2 karabiny maszynowe DT kalibru 7,62mm</text>
+        </armament>
         <!-- TODO -->
       </info>
     </unit>

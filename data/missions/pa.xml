@@ -1,0 +1,8 @@
+<campaign>
+  <name>
+    <text lang="en">Polish Aces</text>
+    <text lang="pl">Polskie Asy</text>
+  </name>
+  
+  <mission file="pa_01a.xml" />
+</campaign>

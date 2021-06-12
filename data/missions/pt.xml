@@ -1,0 +1,45 @@
+<campaign>
+  <name>
+    <text lang="en">Pacific Theatre</text>
+    <text lang="pl">Wojna na Pacyfiku</text>
+  </name>
+  
+  <mission file="pt_01a.xml" />
+  <mission file="pt_01b.xml" />
+  
+  <mission file="pt_02a.xml" />
+  <mission file="pt_02b.xml" />
+  
+  <mission file="pt_03a.xml" />
+  
+  <mission file="pt_04a.xml" />
+  
+  <mission file="pt_05a.xml" />
+  
+  <mission file="pt_06a.xml" />
+  <mission file="pt_06b.xml" />
+  
+  <mission file="pt_07a.xml" />
+  <mission file="pt_07b.xml" />
+  <mission file="pt_07c.xml" />
+  
+  <mission file="pt_08a.xml" />
+  
+  <mission file="pt_09a.xml" />
+  
+  <mission file="pt_10a.xml" />
+  <mission file="pt_10b.xml" />
+  
+  <mission file="pt_11a.xml" />
+  <mission file="pt_11b.xml" />
+  <mission file="pt_11c.xml" />
+  
+  <mission file="pt_12a.xml" />
+  
+  <mission file="pt_13a.xml" />
+  
+  <mission file="pt_14a.xml" />
+  <mission file="pt_14b.xml" />
+  
+  <mission file="pt_15a.xml" />
+</campaign>

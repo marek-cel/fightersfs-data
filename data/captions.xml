@@ -4,24 +4,32 @@
     <text lang="en">LOADING...</text>
     <text lang="pl">ŁADOWANIE...</text>
   </loading>
-  <resume>
+  <resume_mobile>
     <text lang="en">Tap the screen to resume.</text>
     <text lang="pl">Dotknij ekranu aby wznowić grę.</text>
-  </resume>
-  <begin>
+  </resume_mobile>
+  <resume_desktop>
+    <text lang="en">Press any key to resume.</text>
+    <text lang="pl">Wciśnij dowolny przycisk aby wznowić grę.</text>
+  </resume_desktop>
+  <begin_mobile>
     <text lang="en">Hold your device comfortable and tap the screen to begin.</text>
     <text lang="pl">Ustaw swoje urządzenie w wygodnej pozycji i dotknij ekranu.</text>
-  </begin>
-  <mission_accomplished>
+  </begin_mobile>
+  <begin_desktop>
+    <text lang="en">Press any key to begin.</text>
+    <text lang="pl">Wciśnij dowolny przycisk aby rozpocząć grę.</text>
+  </begin_desktop>
+  <mission_success>
     <text lang="en">MISSION ACCOMPLISHED</text>
     <text lang="pl">MISJA WYKONANA</text>
     <!--<text lang="fr">MISSION ACCOMPLIE</text>-->
-  </mission_accomplished>
-  <mission_failed>
+  </mission_success>
+  <mission_failure>
     <text lang="en">MISSION FAILED</text>
     <text lang="pl">NIEPOWODZENIE MISJI</text>
     <!--<text lang="fr">MISSION ÉCHOUÉE</text>-->
-  </mission_failed>
+  </mission_failure>
   <friendly_fire>
     <text lang="en">FRIENDLY FIRE</text>
     <text lang="pl">BRATOBÓJCZY OGIEŃ</text>

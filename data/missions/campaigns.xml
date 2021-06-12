@@ -1,0 +1,7 @@
+<campaigns>
+  <campaign file="tutorial.xml" hidden="1" />
+  <campaign file="training.xml" hidden="1" />
+  
+  <campaign file="pt.xml" />
+  <campaign file="pa.xml" />
+</campaigns>
