@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mission tutorial="0">
  <data>
-  <icon>missions/07a_ico.png</icon>
-  <icon_locked>missions/07a_ico_locked.png</icon_locked>
-  <image>missions/07a_img.png</image>
-  <image_locked>missions/07a_img_locked.png</image_locked>
+  <icon>missions/pt_05a_ico.png</icon>
+  <icon_locked>missions/pt_05a_ico_locked.png</icon_locked>
+  <image>missions/pt_05a_img.png</image>
+  <image_locked>missions/pt_05a_img_locked.png</image_locked>
   <name>
    <text lang="en">Excort Bombers Attacking Shoho</text>
    <text lang="pl">Eskortuj bombowce atakujące Shoho</text>

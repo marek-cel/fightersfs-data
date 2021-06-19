@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mission tutorial="0">
  <data>
-  <icon>missions/09a_ico.png</icon>
-  <icon_locked>missions/09a_ico_locked.png</icon_locked>
-  <image>missions/09a_img.png</image>
-  <image_locked>missions/09a_img_locked.png</image_locked>
+  <icon>missions/pt_07a_ico.png</icon>
+  <icon_locked>missions/pt_07a_ico_locked.png</icon_locked>
+  <image>missions/pt_07a_img.png</image>
+  <image_locked>missions/pt_07a_img_locked.png</image_locked>
   <name>
    <text lang="en">Defend Henderson Airfield</text>
    <text lang="pl">Obrona lotniska Henderson</text>

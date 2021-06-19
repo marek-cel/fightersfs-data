@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mission tutorial="0">
  <data>
-  <icon>missions/04b_ico.png</icon>
-  <icon_locked>missions/04b_ico_locked.png</icon_locked>
-  <image>missions/04b_img.png</image>
-  <image_locked>missions/04b_img_locked.png</image_locked>
+  <icon>missions/pt_02b_ico.png</icon>
+  <icon_locked>missions/pt_02b_ico_locked.png</icon_locked>
+  <image>missions/pt_02b_img.png</image>
+  <image_locked>missions/pt_02b_img_locked.png</image_locked>
   <name>
    <text lang="en">Christmas present for the Emperor</text>
    <text lang="pl">Gwiazdkowy prezent dla Cesarza</text>

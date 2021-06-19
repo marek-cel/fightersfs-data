@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mission tutorial="0">
  <data>
-  <icon>missions/17a_ico.png</icon>
-  <icon_locked>missions/17a_ico_locked.png</icon_locked>
-  <image>missions/17a_img.png</image>
-  <image_locked>missions/17a_img_locked.png</image_locked>
+  <icon>missions/pt_15a_ico.png</icon>
+  <icon_locked>missions/pt_15a_ico_locked.png</icon_locked>
+  <image>missions/pt_15a_img.png</image>
+  <image_locked>missions/pt_15a_img_locked.png</image_locked>
   <name>
    <text lang="en">Raid on Tokyo Bay</text>
    <text lang="pl">Rajd na zatokę Tokijską</text>

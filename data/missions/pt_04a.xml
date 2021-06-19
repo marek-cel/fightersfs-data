@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mission tutorial="0">
  <data>
-  <icon>missions/06a_ico.png</icon>
-  <icon_locked>missions/06a_ico_locked.png</icon_locked>
-  <image>missions/06a_img.png</image>
-  <image_locked>missions/06a_img_locked.png</image_locked>
+  <icon>missions/pt_04a_ico.png</icon>
+  <icon_locked>missions/pt_04a_ico_locked.png</icon_locked>
+  <image>missions/pt_04a_img.png</image>
+  <image_locked>missions/pt_04a_img_locked.png</image_locked>
   <name>
    <text lang="en">Defend USS Lexington</text>
    <text lang="pl">Obrona USS Lexington</text>

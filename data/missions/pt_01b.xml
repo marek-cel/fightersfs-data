@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mission tutorial="0">
  <data>
-  <icon>missions/03b_ico.png</icon>
-  <icon_locked>missions/03b_ico_locked.png</icon_locked>
-  <image>missions/03b_img.png</image>
-  <image_locked>missions/03b_img_locked.png</image_locked>
+  <icon>missions/pt_01b_ico.png</icon>
+  <icon_locked>missions/pt_01b_ico_locked.png</icon_locked>
+  <image>missions/pt_01b_img.png</image>
+  <image_locked>missions/pt_01b_img_locked.png</image_locked>
   <name>
    <text lang="en">Intercept Bombers over Barbers Point</text>
    <text lang="pl">Przechwyć bombowce nad Barbers Point</text>

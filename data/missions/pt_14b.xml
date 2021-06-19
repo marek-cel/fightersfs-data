@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mission tutorial="0">
  <data>
-  <icon>missions/16b_ico.png</icon>
-  <icon_locked>missions/16b_ico_locked.png</icon_locked>
-  <image>missions/16b_img.png</image>
-  <image_locked>missions/16b_img_locked.png</image_locked>
+  <icon>missions/pt_14b_ico.png</icon>
+  <icon_locked>missions/pt_14b_ico_locked.png</icon_locked>
+  <image>missions/pt_14b_img.png</image>
+  <image_locked>missions/pt_14b_img_locked.png</image_locked>
   <name>
    <text lang="en">Defend USS Laffey</text>
    <text lang="pl">Obrona USS Laffey</text>

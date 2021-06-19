@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mission tutorial="0">
  <data>
-  <icon>missions/04a_ico.png</icon>
-  <icon_locked>missions/04a_ico_locked.png</icon_locked>
-  <image>missions/04a_img.png</image>
-  <image_locked>missions/04a_img_locked.png</image_locked>
+  <icon>missions/pt_02a_ico.png</icon>
+  <icon_locked>missions/pt_02a_ico_locked.png</icon_locked>
+  <image>missions/pt_02a_img.png</image>
+  <image_locked>missions/pt_02a_img_locked.png</image_locked>
   <name>
    <text lang="en">Patrol area arround Kunming</text>
    <text lang="pl">Patroluj okolice Kunming</text>

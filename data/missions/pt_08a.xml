@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mission tutorial="0">
  <data>
-  <icon>missions/10a_ico.png</icon>
-  <icon_locked>missions/10a_ico_locked.png</icon_locked>
-  <image>missions/10a_img.png</image>
-  <image_locked>missions/10a_img_locked.png</image_locked>
+  <icon>missions/pt_08a_ico.png</icon>
+  <icon_locked>missions/pt_08a_ico_locked.png</icon_locked>
+  <image>missions/pt_08a_img.png</image>
+  <image_locked>missions/pt_08a_img_locked.png</image_locked>
   <name>
    <text lang="en">Operation Vengeance</text>
    <text lang="pl">Operacja Vengeance</text>

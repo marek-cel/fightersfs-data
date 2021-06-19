@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mission tutorial="0">
  <data>
-  <icon>missions/16a_ico.png</icon>
-  <icon_locked>missions/16a_ico_locked.png</icon_locked>
-  <image>missions/16a_img.png</image>
-  <image_locked>missions/16a_img_locked.png</image_locked>
+  <icon>missions/pt_14a_ico.png</icon>
+  <icon_locked>missions/pt_14a_ico_locked.png</icon_locked>
+  <image>missions/pt_14a_img.png</image>
+  <image_locked>missions/pt_14a_img_locked.png</image_locked>
   <name>
    <text lang="en">Excort Bombers Attacking Yamato</text>
    <text lang="pl">Eskortuj bombowce atakujące Yamato</text>

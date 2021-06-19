@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mission tutorial="0">
  <data>
-  <icon>missions/14a_ico.png</icon>
-  <icon_locked>missions/14a_ico_locked.png</icon_locked>
-  <image>missions/14a_img.png</image>
-  <image_locked>missions/14a_img_locked.png</image_locked>
+  <icon>missions/pt_12a_ico.png</icon>
+  <icon_locked>missions/pt_12a_ico_locked.png</icon_locked>
+  <image>missions/pt_12a_img.png</image>
+  <image_locked>missions/pt_12a_img_locked.png</image_locked>
   <name>
    <text lang="en">Battle of Leyte Gulf</text>
    <text lang="pl">Bitwa w zatoce Leyte</text>

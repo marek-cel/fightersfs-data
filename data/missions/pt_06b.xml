@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mission tutorial="0">
  <data>
-  <icon>missions/08b_ico.png</icon>
-  <icon_locked>missions/08b_ico_locked.png</icon_locked>
-  <image>missions/08b_img.png</image>
-  <image_locked>missions/08b_img_locked.png</image_locked>
+  <icon>missions/pt_06b_ico.png</icon>
+  <icon_locked>missions/pt_06b_ico_locked.png</icon_locked>
+  <image>missions/pt_06b_img.png</image>
+  <image_locked>missions/pt_06b_img_locked.png</image_locked>
   <name>
    <text lang="en">Defend USS Yorktown</text>
    <text lang="pl">Obrona USS Yorktown</text>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mission tutorial="0">
  <data>
-  <icon>missions/11a_ico.png</icon>
-  <icon_locked>missions/11a_ico_locked.png</icon_locked>
-  <image>missions/11a_img.png</image>
-  <image_locked>missions/11a_img_locked.png</image_locked>
+  <icon>missions/pt_09a_ico.png</icon>
+  <icon_locked>missions/pt_09a_ico_locked.png</icon_locked>
+  <image>missions/pt_09a_img.png</image>
+  <image_locked>missions/pt_09a_img_locked.png</image_locked>
   <name>
    <text lang="en">Defend Darwin</text>
    <text lang="pl">Obrona Darwin</text>

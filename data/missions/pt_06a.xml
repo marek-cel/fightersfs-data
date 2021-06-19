@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mission tutorial="0">
  <data>
-  <icon>missions/08a_ico.png</icon>
-  <icon_locked>missions/08a_ico_locked.png</icon_locked>
-  <image>missions/08a_img.png</image>
-  <image_locked>missions/08a_img_locked.png</image_locked>
+  <icon>missions/pt_06a_ico.png</icon>
+  <icon_locked>missions/pt_06a_ico_locked.png</icon_locked>
+  <image>missions/pt_06a_img.png</image>
+  <image_locked>missions/pt_06a_img_locked.png</image_locked>
   <name>
    <text lang="en">Defend Midway</text>
    <text lang="pl">Obrona Midway</text>
