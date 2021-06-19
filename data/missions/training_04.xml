@@ -18,8 +18,8 @@
    <text lang="pl">Nie udało ci zniszczyć celów ćwiczebnych. Od pilota myśliwskiego oczekuje się aby był w stanie zestrzelić samolot wroga. Jeżeli chcesz zostać asem myśliwskim musisz się poprawić. Spróbuj ponownie.</text>
   </summary_failure>
   <summary_success>
-   <text lang="en">Congratulations. You have finished your training. You are now fully trained fighter pilot prepared for a real combat. This could be sooner than you expect.</text>
-   <text lang="pl">Gratulacje. Udało ci się ukończyć trening. Teraz jesteś w pełni wyszkolonym pilotem myśliwskim. Prawdziwa walka może nadejść szybciej niż się tego spodziewasz.</text>
+   <text lang="en">Congratulations. You have finished your training. You are now fully trained fighter pilot prepared for a real combat.</text>
+   <text lang="pl">Gratulacje. Udało ci się ukończyć trening. Teraz jesteś w pełni wyszkolonym pilotem myśliwskim.</text>
   </summary_success>
  </data>
  <scenery>
