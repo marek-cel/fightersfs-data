@@ -4,6 +4,11 @@
     <text lang="pl">Wojna na Pacyfiku</text>
   </name>
   
+  <synopsis>
+    <text lang="en">Become an ace of World War II Pacific Theatre. Intercept Japanese bombers over Pearl Harbor, escort bombers attacking Japanese aircraft carrier on the Coral Sea, defend American base on Midway, fight against Japanese warplanes over Guadalcanal, shoot down aircraft with Japanese admiral on board, cover American fleet on the Philippine Sea, defend ships from Kamikaze attacks.</text>
+    <text lang="pl">Zasiądź za sterami myśliwca i zostań asem teatru działań na Pacyfiku II Wojny Światowej. Przechwyć japońskie bombowce nad Pearl Harbor, eskortuj bombowce atakujące japoński lotniskowiec na Morzu Koralowym, broń amerykańskiej bazy wojskowej na Midway, walcz przeciwko japońskim samolotom bojowym na Guadalcanal, zestrzel samolot z japońskim admirałem na pokładzie, osłaniaj działania amerykańskiej floty na Morzu Filipińskim, broń okręty przed atakami Kamikaze.</text>
+  </synopsis>
+
   <mission file="pt_01a.xml" />
   <mission file="pt_01b.xml" />
   

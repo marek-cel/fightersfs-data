@@ -4,5 +4,10 @@
     <text lang="pl">Tutorial</text>
   </name>
   
+  <synopsis>
+    <text lang="en"></text>
+    <text lang="pl"></text>
+  </synopsis>
+  
   <mission file="tutorial_01.xml" />
 </campaign>

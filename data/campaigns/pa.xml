@@ -4,5 +4,10 @@
     <text lang="pl">Polskie Asy</text>
   </name>
   
+  <synopsis>
+    <text lang="en">Follow the tour of duty of Polish greatest fighter aces of World War II. Defend Warsaw from German bombers, become a pilot of Polish Air Forces in France, intercept Luftwaffe bombers during the Battle of Britain as a pilot of famous No. 303 Squadron, escort bombers attacking targets in Manchuria and Germany, support ground units in Normandy, destroy V-1 flying bombs threatening London, cover land forces during battle of Berlin.</text>
+    <text lang="pl">Podążaj śladami największych polskich asów myśliwskich II Wojny Światowej. Obroń Warszawę przed niemieckimi bombowcami, zostań pilotem Polskich Sił Powietrznych we Francji, jako pilot sławnego dywizjonu 303 przechwyć bombowce Luftwaffe w trakcie bitwy o Anglię, eskortuj bombowce atakujące cele w Mandżurii i Niemczech, wspieraj jednostki naziemne w Normandii, zniszcz bomby latające V-1 zagrażające Londynowi, osłaniaj wojska lądowe podczas bitwy o Berlin.</text>
+  </synopsis>
+  
   <mission file="pa_01a.xml" />
 </campaign>

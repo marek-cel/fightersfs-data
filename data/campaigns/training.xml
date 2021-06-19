@@ -4,6 +4,11 @@
     <text lang="pl">Misje Treningowe</text>
   </name>
   
+  <synopsis>
+    <text lang="en"></text>
+    <text lang="pl"></text>
+  </synopsis>
+  
   <mission file="training_01.xml" />
   <mission file="training_02.xml" />
   <mission file="training_03.xml" />
