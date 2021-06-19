@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mission tutorial="0">
  <data>
-  <icon>missions/02d_ico.png</icon>
-  <icon_locked>missions/02d_ico_locked.png</icon_locked>
-  <image>missions/02d_img.png</image>
-  <image_locked>missions/02d_img_locked.png</image_locked>
+  <icon>missions/training_04_ico.png</icon>
+  <icon_locked>missions/training_04_ico_locked.png</icon_locked>
+  <image>missions/training_04_img.png</image>
+  <image_locked>missions/training_04_img_locked.png</image_locked>
   <name>
    <text lang="en">Advanced Gunnery Practice</text>
    <text lang="pl">Zaawansowane ćwiczenia strzeleckie</text>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mission tutorial="1">
  <data>
-  <icon>missions/01a_ico.png</icon>
-  <icon_locked>missions/01a_ico_locked.png</icon_locked>
-  <image>missions/01a_img.png</image>
-  <image_locked>missions/01a_img_locked.png</image_locked>
+  <icon>missions/tutorial_01_ico.png</icon>
+  <icon_locked>missions/tutorial_01_ico_locked.png</icon_locked>
+  <image>missions/tutorial_01_img.png</image>
+  <image_locked>missions/tutorial_01_img_locked.png</image_locked>
   <name>
    <text lang="en">Tutorial</text>
    <text lang="pl">Samouczek</text>
