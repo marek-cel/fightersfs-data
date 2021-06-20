@@ -9,5 +9,7 @@
     <text lang="pl"></text>
   </synopsis>
   
+  <image></image>
+  
   <mission file="tutorial_01.xml" />
 </campaign>

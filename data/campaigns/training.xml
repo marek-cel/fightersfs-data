@@ -9,6 +9,8 @@
     <text lang="pl"></text>
   </synopsis>
   
+  <image></image>
+  
   <mission file="training_01.xml" />
   <mission file="training_02.xml" />
   <mission file="training_03.xml" />

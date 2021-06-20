@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mission tutorial="0">
  <data>
-  <icon>missions/training_01_ico.png</icon>
-  <icon_locked>missions/training_01_ico_locked.png</icon_locked>
   <image>missions/training_01_img.png</image>
   <image_locked>missions/training_01_img_locked.png</image_locked>
   <name>

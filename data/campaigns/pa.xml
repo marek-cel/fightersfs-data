@@ -9,5 +9,26 @@
     <text lang="pl">Podążaj śladami największych polskich asów myśliwskich II Wojny Światowej. Obroń Warszawę przed niemieckimi bombowcami, zostań pilotem Polskich Sił Powietrznych we Francji, jako pilot sławnego dywizjonu 303 przechwyć bombowce Luftwaffe w trakcie bitwy o Anglię, eskortuj bombowce atakujące cele w Mandżurii i Niemczech, wspieraj jednostki naziemne w Normandii, zniszcz bomby latające V-1 zagrażające Londynowi, osłaniaj wojska lądowe podczas bitwy o Berlin.</text>
   </synopsis>
   
+  <image>campaigns/pa_img.png</image>
+  
   <mission file="pa_01a.xml" />
+  <mission file="pa_01b.xml" />
+  <mission file="pa_02a.xml" />
+  <mission file="pa_02b.xml" />
+  <mission file="pa_03a.xml" />
+  <mission file="pa_03b.xml" />
+  <mission file="pa_03c.xml" />
+  <mission file="pa_03d.xml" />
+  <mission file="pa_04a.xml" />
+  <mission file="pa_05a.xml" />
+  <mission file="pa_06a.xml" />
+  <mission file="pa_07a.xml" />
+  <mission file="pa_07b.xml" />
+  <mission file="pa_08a.xml" />
+  <mission file="pa_09a.xml" />
+  <mission file="pa_10a.xml" />
+  <mission file="pa_11a.xml" />
+  <mission file="pa_11b.xml" />
+  <mission file="pa_12a.xml" />
+  <mission file="pa_12b.xml" />
 </campaign>
