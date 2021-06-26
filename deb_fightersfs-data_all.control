@@ -1,0 +1,8 @@
+Package: fightersfs-data
+Version: 0.1
+Architecture: all
+Maintainer: Marek M. Cel <marekcel@marekcel.pl>
+Depends:
+Installed-Size: 313533
+Homepage: http://marekcel.pl
+Description: fightersfs data.
